@@ -27,6 +27,7 @@ jobs:
       - name: Pensar (Models com fallback determinístico)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOS_PAT: ${{ secrets.NOS_PAT }} # a mão (fase 2): sem o secret, só falam no falas.json
         run: node pensar.mjs
 
       - name: Registrar memórias e falas

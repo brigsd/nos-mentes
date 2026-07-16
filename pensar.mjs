@@ -86,6 +86,26 @@ async function pensarComModels(mente, resumo, token) {
   };
 }
 
+/* fase 2 — a MÃO: postar o comando /habitar no brigsd/nos (mesmo canal
+   público dos jogadores). Só roda se o secret NOS_PAT existir; qualquer
+   falha vira log e a fala segue viva no falas.json. */
+async function agir(mente, fala, pat) {
+  const r = await fetch('https://api.github.com/repos/brigsd/nos/issues', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${pat}`,
+      'Content-Type': 'application/json',
+      Accept: 'application/vnd.github+json',
+    },
+    body: JSON.stringify({
+      title: `Comando: /habitar ${mente.id}`,
+      body: `### Habitante\n${mente.id}\n\n### Mensagem\n${fala}`,
+    }),
+  });
+  if (!r.ok) throw new Error(`issues HTTP ${r.status}: ${(await r.text()).slice(0, 160)}`);
+  return (await r.json()).number;
+}
+
 function fallback(mente, batida) {
   const fala = mente.falasBase[batida % mente.falasBase.length];
   return { fala, pensamento: '(a mente descansou nesta batida — rotina falou por ela)', lembranca: null, origem: 'rotina' };
@@ -95,6 +115,7 @@ const world = await (await fetch(WORLD_URL)).json();
 const resumo = resumirMundo(world);
 const batida = world.meta.tickCount;
 const token = process.env.GITHUB_TOKEN ?? '';
+const pat = process.env.NOS_PAT ?? '';
 const falas = [];
 
 for (const f of readdirSync('mentes').filter((n) => n.endsWith('.json')).sort()) {
@@ -107,6 +128,15 @@ for (const f of readdirSync('mentes').filter((n) => n.endsWith('.json')).sort())
   } catch (e) {
     console.error(`${mente.id}: Models indisponível (${e.message}) — usando a rotina.`);
     out = fallback(mente, batida);
+  }
+  if (pat && out.fala !== mente.ultimaFalaPostada) {
+    try {
+      const n = await agir(mente, out.fala, pat);
+      mente.ultimaFalaPostada = out.fala;
+      console.log(`${mente.id} agiu no mundo: issue #${n} (Comando: /habitar)`);
+    } catch (e) {
+      console.error(`${mente.id}: a mão falhou (${e.message}) — a fala fica só no falas.json.`);
+    }
   }
   mente.memorias.push({ batida, pensamento: out.pensamento, ...(out.lembranca ? { texto: out.lembranca } : {}) });
   if (mente.memorias.length > MAX_MEMORIAS) mente.memorias = mente.memorias.slice(-MAX_MEMORIAS);

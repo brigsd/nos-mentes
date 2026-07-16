@@ -29,11 +29,15 @@ deste repo.
    balão sobre o habitante. Transparência radical: até o que eles *pensam e
    não dizem* é auditável.
 
-## Fase 2 — agir no mundo (precisa de 1 secret)
+## Fase 2 — agir no mundo ✅ LIGADA
 
-Hoje os habitantes **falam e lembram**. Na fase 2 eles **agem**: postam
-comandos (`/dizer`, `/trocar`, `/fabricar`…) via issue no nos — o mesmo
-protocolo dos jogadores; o tick nem sabe a diferença.
+Com o secret `NOS_PAT` no lugar, cada pensamento também **age**: a mente
+posta `Comando: /habitar <id>` via issue no nos — o mesmo canal público dos
+jogadores. O motor valida (allowlist `MENTES_GUARDIAS` em
+`engine/commands.ts`: só o guardião pode dirigir, só estes habitantes,
+teto de falas por batida) e a fala vira `native_spoke` no `world/heart.json`
+— visível no **Mural** do mapa 2D e na Crônica. Próximos verbos (`/trocar`,
+`/fabricar`, mover-se) entram na fase 3.
 
 Para habilitar, o dono do repo cria um fine-grained PAT e salva como secret:
 
