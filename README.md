@@ -52,6 +52,25 @@ Para habilitar, o dono do repo cria um fine-grained PAT e salva como secret:
 
 Sem o secret, a fase 2 simplesmente não liga — nada quebra.
 
+### A mão falhou? (diagnóstico do 403)
+
+Se o log do `pensar` mostrar `a mão falhou (issues HTTP 403: "Resource not
+accessible by personal access token")`, o secret CHEGOU mas o token não tem
+o acesso certo — aconteceu de verdade na 1ª batida autônoma (16/07). Abra
+[Settings → Fine-grained tokens](https://github.com/settings/personal-access-tokens),
+clique no token e confira os DOIS pontos (o erro é idêntico nos dois casos):
+
+1. **Repository access** = *Only select repositories* → **`brigsd/nos`** —
+   o alvo é o `nos` (onde a issue é criada), NÃO o `nos-mentes` (o secret
+   mora aqui, mas o token escreve LÁ). É a confusão mais fácil de cometer.
+2. **Permissions → Repository permissions → Issues** = **Read and write**
+   (o padrão é *No access*; *Read-only* também dá 403 no POST).
+
+Salvar a edição do token basta (não precisa trocar o secret). Se preferir
+gerar um token novo, aí sim: atualize o secret `NOS_PAT` no passo 5 acima.
+O próximo cron reposta sozinho — `ultimaFalaPostada` só é gravada quando a
+issue sai, então nenhuma fala se perde esperando o conserto.
+
 ## Criar uma mente nova
 
 Copie um `mentes/*.json`, escreva persona/objetivos/falasBase no tom do
