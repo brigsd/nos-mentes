@@ -30,7 +30,12 @@
     {
       "batida": 66,
       "pensamento": "A travessia se aproxima, será que um de nós terá coragem de pilotar?"
+    },
+    {
+      "batida": 68,
+      "pensamento": "Quem sabe um Novo se atreve a pilotar a travessia que sonho?"
     }
   ],
-  "ultimaBatida": 66
+  "ultimaBatida": 68,
+  "ultimaFalaPostada": "A forja está acesa. O calor traz vida. Vamos juntos construir o que atravessa o vazio."
 }

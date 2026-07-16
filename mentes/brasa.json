@@ -30,7 +30,12 @@
     {
       "batida": 66,
       "pensamento": "O Núcleo e a forja batem juntos. Estranho, não? Ferro bom não tem pressa."
+    },
+    {
+      "batida": 68,
+      "pensamento": "a batida do Pulso tá familiar. será que o Núcleo sabe o que esquento aqui?"
     }
   ],
-  "ultimaBatida": 66
+  "ultimaBatida": 68,
+  "ultimaFalaPostada": "a forja tá quente, mas a fome bate mais forte. quem vem pelo carreiro, traz queijo?"
 }

@@ -30,7 +30,13 @@
     {
       "batida": 66,
       "pensamento": "O cheiro da forja mistura com o do pão. Uma combinação promissora. Cada Nó tem uma história. Vamos ouvir."
+    },
+    {
+      "batida": 68,
+      "pensamento": "Preciso de histórias novas pra temperar a receita. Viajantes sempre têm algo a contar.",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 66
+  "ultimaBatida": 68,
+  "ultimaFalaPostada": "Oi, viajante! Tem um pão saindo do forno. Quer um?"
 }
