@@ -26,7 +26,11 @@
     {
       "batida": 65,
       "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
+    },
+    {
+      "batida": 66,
+      "pensamento": "A travessia se aproxima, será que um de nós terá coragem de pilotar?"
     }
   ],
-  "ultimaBatida": 65
+  "ultimaBatida": 66
 }
