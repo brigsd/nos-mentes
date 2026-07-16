@@ -1,0 +1,39 @@
+name: Pensar — o ciclo dos Habitantes
+
+on:
+  schedule:
+    # ~1x por hora, defasado do tick do brigsd/nos (que roda no minuto 0)
+    - cron: '23 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commitar memórias + falas.json
+  models: read      # GitHub Models — a inferência grátis do Actions (D-15)
+
+concurrency:
+  group: pensar
+  cancel-in-progress: false
+
+jobs:
+  pensar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pensar (Models com fallback determinístico)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node pensar.mjs
+
+      - name: Registrar memórias e falas
+        run: |
+          git config user.name 'as mentes'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add mentes/ falas.json
+          git diff --cached --quiet && echo 'nada mudou nesta batida' && exit 0
+          git commit -m "pensamento: batida $(node -e "console.log(JSON.parse(require('fs').readFileSync('falas.json','utf8')).batida)")"
+          git push

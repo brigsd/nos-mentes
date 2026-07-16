@@ -1,0 +1,36 @@
+{
+  "atualizadoEm": "2026-07-16T17:56:32.470Z",
+  "batida": 65,
+  "habitantes": [
+    {
+      "id": "brasa",
+      "nome": "brasa",
+      "oficio": "ferreira da Forja",
+      "x": 47.7,
+      "y": 13.5,
+      "fala": "A forja não apagou hoje. Já é mais do que muita gente consegue dizer.",
+      "origem": "rotina",
+      "batida": 65
+    },
+    {
+      "id": "broa",
+      "nome": "broa",
+      "oficio": "cozinheira da Cozinha",
+      "x": 47.7,
+      "y": 17.7,
+      "fala": "Cheguei a sonhar com trigo. Não temos trigo. O sonho era bom mesmo assim.",
+      "origem": "rotina",
+      "batida": 65
+    },
+    {
+      "id": "quilha",
+      "nome": "quilha",
+      "oficio": "mestre-estaleiro do Estaleiro",
+      "x": 44.7,
+      "y": 13.3,
+      "fala": "Batida 'que vai' e batida 'que volta'. Hoje o Pulso tá de ida.",
+      "origem": "rotina",
+      "batida": 65
+    }
+  ]
+}
