@@ -34,8 +34,13 @@
     {
       "batida": 68,
       "pensamento": "a batida do Pulso tá familiar. será que o Núcleo sabe o que esquento aqui?"
+    },
+    {
+      "batida": 70,
+      "pensamento": "A batida do Pulso tá firme. O calor tá seguro, mas não posso deixar a chama apagar.",
+      "texto": "O cheiro do pão fresco, isso sempre atrai pessoas."
     }
   ],
-  "ultimaBatida": 68,
-  "ultimaFalaPostada": "a forja tá quente, mas a fome bate mais forte. quem vem pelo carreiro, traz queijo?"
+  "ultimaBatida": 70,
+  "ultimaFalaPostada": "A forja tá quente, mas comida é prioridade. Quem traz os queijos?"
 }

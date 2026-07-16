@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-16T21:28:21.871Z",
-  "batida": 68,
+  "atualizadoEm": "2026-07-16T23:14:18.021Z",
+  "batida": 70,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "a forja tá quente, mas a fome bate mais forte. quem vem pelo carreiro, traz queijo?",
+      "fala": "A forja tá quente, mas comida é prioridade. Quem traz os queijos?",
       "origem": "models",
-      "batida": 68
+      "batida": 70
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "Oi, viajante! Tem um pão saindo do forno. Quer um?",
       "origem": "models",
-      "batida": 68
+      "batida": 70
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "A forja está acesa. O calor traz vida. Vamos juntos construir o que atravessa o vazio.",
+      "fala": "Se alguém trouxer queijo, teremos um banquete antes da travessia.",
       "origem": "models",
-      "batida": 68
+      "batida": 70
     }
   ]
 }

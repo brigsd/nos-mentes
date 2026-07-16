@@ -34,8 +34,13 @@
     {
       "batida": 68,
       "pensamento": "Quem sabe um Novo se atreve a pilotar a travessia que sonho?"
+    },
+    {
+      "batida": 70,
+      "pensamento": "A fome é um peso que pode arrastar sonhos para o fundo do mar.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 68,
-  "ultimaFalaPostada": "A forja está acesa. O calor traz vida. Vamos juntos construir o que atravessa o vazio."
+  "ultimaBatida": 70,
+  "ultimaFalaPostada": "Se alguém trouxer queijo, teremos um banquete antes da travessia."
 }
