@@ -58,8 +58,13 @@
       "batida": 79,
       "pensamento": "A travessia é um risco, mas é o único jeito de ver o que há do outro lado.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 83,
+      "pensamento": "A travessia não é só pelo mar, mas pela coragem de partir.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 79,
+  "ultimaBatida": 83,
   "ultimaFalaPostada": "Quem se atreve a pilotar algo que eu montar? O vazio está esperando."
 }

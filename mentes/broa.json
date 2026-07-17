@@ -59,8 +59,13 @@
       "batida": 79,
       "pensamento": "Se não tiver comida, a jornada é mais difícil. Vamos alimentar esses Nós!",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 83,
+      "pensamento": "A fome não espera. Que histórias trarão os Nós hoje?",
+      "texto": "O calor da forja traz uma lembrança de um pão crocante."
     }
   ],
-  "ultimaBatida": 79,
+  "ultimaBatida": 83,
   "ultimaFalaPostada": "Quem quer um pedaço de pão fresco? O calor é bom!"
 }

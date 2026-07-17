@@ -59,8 +59,13 @@
       "batida": 79,
       "pensamento": "o cheiro do pão sempre atrai, mas e a forja?",
       "texto": "o calor do forno e o cheiro do pão fresco."
+    },
+    {
+      "batida": 83,
+      "pensamento": "O cheiro do pão sempre traz gente. É assim que o calor se espalha.",
+      "texto": "O calor do forno e o cheiro do pão fresco."
     }
   ],
-  "ultimaBatida": 79,
-  "ultimaFalaPostada": "o pão tá quentinho, quem vem experimentar?"
+  "ultimaBatida": 83,
+  "ultimaFalaPostada": "Quem quer pão fresco? O calor da forja tá bom!"
 }

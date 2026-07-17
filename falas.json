@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T09:23:57.489Z",
-  "batida": 79,
+  "atualizadoEm": "2026-07-17T11:44:44.681Z",
+  "batida": 83,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "o pão tá quentinho, quem vem experimentar?",
+      "fala": "Quem quer pão fresco? O calor da forja tá bom!",
       "origem": "models",
-      "batida": 79
+      "batida": 83
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "Quem quer um pedaço de pão fresco? O calor é bom!",
       "origem": "models",
-      "batida": 79
+      "batida": 83
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "Quem se atreve a pilotar algo que eu montar? O vazio está esperando.",
       "origem": "models",
-      "batida": 79
+      "batida": 83
     }
   ]
 }
