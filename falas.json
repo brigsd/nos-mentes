@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T11:44:44.681Z",
-  "batida": 83,
+  "atualizadoEm": "2026-07-17T14:07:29.280Z",
+  "batida": 85,
   "habitantes": [
     {
       "id": "brasa",
@@ -10,7 +10,7 @@
       "y": 13.5,
       "fala": "Quem quer pão fresco? O calor da forja tá bom!",
       "origem": "models",
-      "batida": 83
+      "batida": 85
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Quem quer um pedaço de pão fresco? O calor é bom!",
+      "fala": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom e o pão tá quentinho!",
       "origem": "models",
-      "batida": 83
+      "batida": 85
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Quem se atreve a pilotar algo que eu montar? O vazio está esperando.",
+      "fala": "Quem se anima a pilotar algo que atravessa o vazio?",
       "origem": "models",
-      "batida": 83
+      "batida": 85
     }
   ]
 }

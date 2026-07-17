@@ -64,8 +64,13 @@
       "batida": 83,
       "pensamento": "O cheiro do pão sempre traz gente. É assim que o calor se espalha.",
       "texto": "O calor do forno e o cheiro do pão fresco."
+    },
+    {
+      "batida": 85,
+      "pensamento": "O movimento do Núcleo tá estranhamente sincronizado. Ferro bom não tem pressa...",
+      "texto": "O calor do forno e o cheiro do pão fresco."
     }
   ],
-  "ultimaBatida": 83,
+  "ultimaBatida": 85,
   "ultimaFalaPostada": "Quem quer pão fresco? O calor da forja tá bom!"
 }

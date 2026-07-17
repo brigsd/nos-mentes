@@ -63,8 +63,13 @@
       "batida": 83,
       "pensamento": "A travessia não é só pelo mar, mas pela coragem de partir.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 85,
+      "pensamento": "A travessia é um sonho distante, mas o cheiro do pão traz esperança.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 83,
-  "ultimaFalaPostada": "Quem se atreve a pilotar algo que eu montar? O vazio está esperando."
+  "ultimaBatida": 85,
+  "ultimaFalaPostada": "Quem se anima a pilotar algo que atravessa o vazio?"
 }

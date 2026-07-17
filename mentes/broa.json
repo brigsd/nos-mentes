@@ -64,8 +64,12 @@
       "batida": 83,
       "pensamento": "A fome não espera. Que histórias trarão os Nós hoje?",
       "texto": "O calor da forja traz uma lembrança de um pão crocante."
+    },
+    {
+      "batida": 85,
+      "pensamento": "A cada Nó que chega, uma nova história para temperar o pão. Fome mal diagnosticada, sempre."
     }
   ],
-  "ultimaBatida": 83,
-  "ultimaFalaPostada": "Quem quer um pedaço de pão fresco? O calor é bom!"
+  "ultimaBatida": 85,
+  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom e o pão tá quentinho!"
 }
