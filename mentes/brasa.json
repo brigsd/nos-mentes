@@ -44,8 +44,13 @@
       "batida": 71,
       "pensamento": "Esses banquetes são o que mantém o Núcleo aquecido. Mas e a forja?",
       "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
+    },
+    {
+      "batida": 73,
+      "pensamento": "O Núcleo pulsa forte, quase como a forja. Isso não é normal. Ferro bom não tem pressa, mas a curiosidade aperta.",
+      "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 71,
-  "ultimaFalaPostada": "Queijo traz calor e alegria. Alguém se arrisca?"
+  "ultimaBatida": 73,
+  "ultimaFalaPostada": "O queijo traz calor, mas pão fresco é sempre melhor. Quem vai querer um pedaço?"
 }

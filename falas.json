@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T00:15:44.788Z",
-  "batida": 71,
+  "atualizadoEm": "2026-07-17T03:43:16.634Z",
+  "batida": 73,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Queijo traz calor e alegria. Alguém se arrisca?",
+      "fala": "O queijo traz calor, mas pão fresco é sempre melhor. Quem vai querer um pedaço?",
       "origem": "models",
-      "batida": 71
+      "batida": 73
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "Oi, Nó! Tem pão quentinho aqui. Quer um pedaço?",
       "origem": "models",
-      "batida": 71
+      "batida": 73
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Queijos são bons, mas o que atravessa o vazio é melhor. Vamos nos preparar para a travessia.",
+      "fala": "Um queijo traz alegria, mas quem se arrisca a atravessar o vazio?",
       "origem": "models",
-      "batida": 71
+      "batida": 73
     }
   ]
 }

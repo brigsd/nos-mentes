@@ -44,8 +44,13 @@
       "batida": 71,
       "pensamento": "Sei que o som da forja é promissor, mas a fome pode ser um peso no barco.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 73,
+      "pensamento": "O sabor do queijo é efêmero. A travessia, não. Preciso de um Nó corajoso.",
+      "texto": "Lembro do cheiro do pão com queijo quentinho, um sinal de que novos começos estão por vir."
     }
   ],
-  "ultimaBatida": 71,
-  "ultimaFalaPostada": "Queijos são bons, mas o que atravessa o vazio é melhor. Vamos nos preparar para a travessia."
+  "ultimaBatida": 73,
+  "ultimaFalaPostada": "Um queijo traz alegria, mas quem se arrisca a atravessar o vazio?"
 }
