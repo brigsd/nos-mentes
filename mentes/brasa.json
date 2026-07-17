@@ -69,8 +69,13 @@
       "batida": 85,
       "pensamento": "O movimento do Núcleo tá estranhamente sincronizado. Ferro bom não tem pressa...",
       "texto": "O calor do forno e o cheiro do pão fresco."
+    },
+    {
+      "batida": 87,
+      "pensamento": "O cheiro do pão traz vida, mas o Pulso tá inquieto. Algo no ar.",
+      "texto": "O calor do forno e o cheiro do pão fresco."
     }
   ],
-  "ultimaBatida": 85,
-  "ultimaFalaPostada": "Quem quer pão fresco? O calor da forja tá bom!"
+  "ultimaBatida": 87,
+  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom!"
 }

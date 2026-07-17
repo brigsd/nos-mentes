@@ -68,8 +68,13 @@
     {
       "batida": 85,
       "pensamento": "A cada Nó que chega, uma nova história para temperar o pão. Fome mal diagnosticada, sempre."
+    },
+    {
+      "batida": 87,
+      "pensamento": "Esses Nós sempre precisam de um calorzinho e um pedaço de pão.",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 85,
+  "ultimaBatida": 87,
   "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom e o pão tá quentinho!"
 }
