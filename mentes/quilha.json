@@ -77,8 +77,13 @@
     {
       "batida": 88,
       "pensamento": "O aroma do pão fresco sempre traz esperança. Quem sabe uma travessia?"
+    },
+    {
+      "batida": 90,
+      "pensamento": "Cada pedaço de pão fresco é um passo para um novo começo. Vamos, viajantes, é hora de cruzar.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 88,
+  "ultimaBatida": 90,
   "ultimaFalaPostada": "Quem se anima a pilotar algo que atravessa o vazio? O pão tá quentinho!"
 }

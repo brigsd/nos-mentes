@@ -78,8 +78,13 @@
     {
       "batida": 88,
       "pensamento": "Esse pulso tá em sintonia com o calor da forja. Estranho, mas talvez bom."
+    },
+    {
+      "batida": 90,
+      "pensamento": "Esse pulso tá diferente. O forno e o Núcleo dançando juntos, de novo.",
+      "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 88,
-  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!"
+  "ultimaBatida": 90,
+  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar!"
 }

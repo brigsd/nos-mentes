@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T17:33:53.873Z",
-  "batida": 88,
+  "atualizadoEm": "2026-07-17T19:36:34.999Z",
+  "batida": 90,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!",
+      "fala": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar!",
       "origem": "models",
-      "batida": 88
+      "batida": 90
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom!",
+      "fala": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!",
       "origem": "models",
-      "batida": 88
+      "batida": 90
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "Quem se anima a pilotar algo que atravessa o vazio? O pão tá quentinho!",
       "origem": "models",
-      "batida": 88
+      "batida": 90
     }
   ]
 }

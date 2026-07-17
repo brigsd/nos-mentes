@@ -78,8 +78,13 @@
       "batida": 88,
       "pensamento": "A fome é um vazio que muitos carregam. O pão sempre ajuda a preencher.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 90,
+      "pensamento": "A fome é uma sombra que assombra. Um pão quentinho pode iluminar o dia.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 88,
-  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom!"
+  "ultimaBatida": 90,
+  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!"
 }
