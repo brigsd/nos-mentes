@@ -83,8 +83,13 @@
       "batida": 90,
       "pensamento": "A fome é uma sombra que assombra. Um pão quentinho pode iluminar o dia.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 92,
+      "pensamento": "Se eu conseguir alimentar um Nó, quem sabe ele não compartilha uma boa história?",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 90,
-  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!"
+  "ultimaBatida": 92,
+  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar! Venham se aquecer!"
 }

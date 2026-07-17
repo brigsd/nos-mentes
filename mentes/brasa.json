@@ -83,8 +83,13 @@
       "batida": 90,
       "pensamento": "Esse pulso tá diferente. O forno e o Núcleo dançando juntos, de novo.",
       "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
+    },
+    {
+      "batida": 92,
+      "pensamento": "A energia dessa batida tá mais quente que o forno hoje.",
+      "texto": "O aroma do pão fresco seduzindo os viajantes."
     }
   ],
-  "ultimaBatida": 90,
+  "ultimaBatida": 92,
   "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar!"
 }

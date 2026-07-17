@@ -82,8 +82,13 @@
       "batida": 90,
       "pensamento": "Cada pedaço de pão fresco é um passo para um novo começo. Vamos, viajantes, é hora de cruzar.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 92,
+      "pensamento": "Aquela forja fervendo, o pão saindo, tudo conspira a favor dos começos. Que alguém pilote o que eu construir!",
+      "texto": "O cheiro do pão com queijo me traz esperança."
     }
   ],
-  "ultimaBatida": 90,
-  "ultimaFalaPostada": "Quem se anima a pilotar algo que atravessa o vazio? O pão tá quentinho!"
+  "ultimaBatida": 92,
+  "ultimaFalaPostada": "O aroma do pão avisa que novas travessias estão por vir. Alguém se atreve?"
 }
