@@ -54,8 +54,13 @@
       "batida": 76,
       "pensamento": "esses viajantes ainda não perceberam a força do pão. o Núcleo e a forja... sempre juntos e estranhos.",
       "texto": "o cheiro do pão fresco, atraindo pessoas."
+    },
+    {
+      "batida": 79,
+      "pensamento": "o cheiro do pão sempre atrai, mas e a forja?",
+      "texto": "o calor do forno e o cheiro do pão fresco."
     }
   ],
-  "ultimaBatida": 76,
-  "ultimaFalaPostada": "quem quer um pedaço de pão fresco? o calor é bom."
+  "ultimaBatida": 79,
+  "ultimaFalaPostada": "o pão tá quentinho, quem vem experimentar?"
 }

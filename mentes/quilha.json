@@ -53,8 +53,13 @@
     {
       "batida": 76,
       "pensamento": "O queijo é bom, mas o pão fresco tem o poder de inspirar. Novos começos à vista?"
+    },
+    {
+      "batida": 79,
+      "pensamento": "A travessia é um risco, mas é o único jeito de ver o que há do outro lado.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 76,
-  "ultimaFalaPostada": "Quem vai se arriscar a pilotar algo que eu montar? O vazio aguarda."
+  "ultimaBatida": 79,
+  "ultimaFalaPostada": "Quem se atreve a pilotar algo que eu montar? O vazio está esperando."
 }

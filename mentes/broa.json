@@ -54,8 +54,13 @@
       "batida": 76,
       "pensamento": "O calor do queijo é bom, mas o pão sempre conquista corações. Vamos ver quem aparece.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 79,
+      "pensamento": "Se não tiver comida, a jornada é mais difícil. Vamos alimentar esses Nós!",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 76,
-  "ultimaFalaPostada": "Temos pão quentinho e queijo! Quem vem experimentar?"
+  "ultimaBatida": 79,
+  "ultimaFalaPostada": "Quem quer um pedaço de pão fresco? O calor é bom!"
 }
