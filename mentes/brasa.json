@@ -93,8 +93,13 @@
       "batida": 93,
       "pensamento": "A forja e o Núcleo batem juntos. Estranho, isso. Ferro bom não tem pressa, mas esse calor me inquieta.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 94,
+      "pensamento": "O cheiro de pão traz vida, mas o Pulso... algo tá diferente.",
+      "texto": "O aroma do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 93,
-  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá quente e o aroma tá no ar! Venham se aquecer!"
+  "ultimaBatida": 94,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e travar novas histórias!"
 }

@@ -92,8 +92,13 @@
       "batida": 93,
       "pensamento": "Atravessar o vazio. Que coragem isso exige. Será que alguém vai se oferecer?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 94,
+      "pensamento": "Este pão é a promessa de novos começos. Alguém há de se arriscar.",
+      "texto": "O cheiro do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 93,
-  "ultimaFalaPostada": "O pão tá quentinho e a brasa tá boa! Quem se atreve a pilotar uma nova travessia?"
+  "ultimaBatida": 94,
+  "ultimaFalaPostada": "O pão tá quentinho. Quem se atreve a pilotar a travessia?"
 }

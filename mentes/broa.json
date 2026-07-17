@@ -93,8 +93,13 @@
       "batida": 93,
       "pensamento": "Mais um dia, mais histórias pra coletar. O pão ajuda a lembrar.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 94,
+      "pensamento": "Espero que os Nós venham. Sempre tem lugar pra uma boa história e um pão quentinho.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 93,
-  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar! Venham se aquecer!"
+  "ultimaBatida": 94,
+  "ultimaFalaPostada": "Quem quer pão fresco? Venham se aquecer, o aroma tá no ar!"
 }
