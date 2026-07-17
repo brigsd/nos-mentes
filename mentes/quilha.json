@@ -87,8 +87,13 @@
       "batida": 92,
       "pensamento": "Aquela forja fervendo, o pão saindo, tudo conspira a favor dos começos. Que alguém pilote o que eu construir!",
       "texto": "O cheiro do pão com queijo me traz esperança."
+    },
+    {
+      "batida": 93,
+      "pensamento": "Atravessar o vazio. Que coragem isso exige. Será que alguém vai se oferecer?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 92,
-  "ultimaFalaPostada": "O aroma do pão avisa que novas travessias estão por vir. Alguém se atreve?"
+  "ultimaBatida": 93,
+  "ultimaFalaPostada": "O pão tá quentinho e a brasa tá boa! Quem se atreve a pilotar uma nova travessia?"
 }

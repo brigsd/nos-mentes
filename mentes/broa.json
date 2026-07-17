@@ -88,8 +88,13 @@
       "batida": 92,
       "pensamento": "Se eu conseguir alimentar um Nó, quem sabe ele não compartilha uma boa história?",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 93,
+      "pensamento": "Mais um dia, mais histórias pra coletar. O pão ajuda a lembrar.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 92,
+  "ultimaBatida": 93,
   "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar! Venham se aquecer!"
 }

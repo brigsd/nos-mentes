@@ -88,8 +88,13 @@
       "batida": 92,
       "pensamento": "A energia dessa batida tá mais quente que o forno hoje.",
       "texto": "O aroma do pão fresco seduzindo os viajantes."
+    },
+    {
+      "batida": 93,
+      "pensamento": "A forja e o Núcleo batem juntos. Estranho, isso. Ferro bom não tem pressa, mas esse calor me inquieta.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 92,
-  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá boa e o cheiro tá no ar!"
+  "ultimaBatida": 93,
+  "ultimaFalaPostada": "Quem quer pão fresco? A brasa tá quente e o aroma tá no ar! Venham se aquecer!"
 }
