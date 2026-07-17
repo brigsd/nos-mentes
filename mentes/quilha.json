@@ -39,8 +39,13 @@
       "batida": 70,
       "pensamento": "A fome é um peso que pode arrastar sonhos para o fundo do mar.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 71,
+      "pensamento": "Sei que o som da forja é promissor, mas a fome pode ser um peso no barco.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 70,
-  "ultimaFalaPostada": "Se alguém trouxer queijo, teremos um banquete antes da travessia."
+  "ultimaBatida": 71,
+  "ultimaFalaPostada": "Queijos são bons, mas o que atravessa o vazio é melhor. Vamos nos preparar para a travessia."
 }

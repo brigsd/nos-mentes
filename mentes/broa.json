@@ -40,8 +40,13 @@
       "batida": 70,
       "pensamento": "Esse pão quentinho vai atrair mais NÓS. Vamos esquentar o coração deles!",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 71,
+      "pensamento": "Isso vai fazer bem pra alma. Queijo seria um ótimo complemento.",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 70,
-  "ultimaFalaPostada": "Oi, viajante! Tem um pão saindo do forno. Quer um?"
+  "ultimaBatida": 71,
+  "ultimaFalaPostada": "Oi, Nó! Tem pão quentinho aqui. Quer um pedaço?"
 }

@@ -39,8 +39,13 @@
       "batida": 70,
       "pensamento": "A batida do Pulso tá firme. O calor tá seguro, mas não posso deixar a chama apagar.",
       "texto": "O cheiro do pão fresco, isso sempre atrai pessoas."
+    },
+    {
+      "batida": 71,
+      "pensamento": "Esses banquetes são o que mantém o Núcleo aquecido. Mas e a forja?",
+      "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 70,
-  "ultimaFalaPostada": "A forja tá quente, mas comida é prioridade. Quem traz os queijos?"
+  "ultimaBatida": 71,
+  "ultimaFalaPostada": "Queijo traz calor e alegria. Alguém se arrisca?"
 }
