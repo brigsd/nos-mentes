@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T03:43:16.634Z",
-  "batida": 73,
+  "atualizadoEm": "2026-07-17T06:31:33.394Z",
+  "batida": 76,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O queijo traz calor, mas pão fresco é sempre melhor. Quem vai querer um pedaço?",
+      "fala": "quem quer um pedaço de pão fresco? o calor é bom.",
       "origem": "models",
-      "batida": 73
+      "batida": 76
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Oi, Nó! Tem pão quentinho aqui. Quer um pedaço?",
+      "fala": "Temos pão quentinho e queijo! Quem vem experimentar?",
       "origem": "models",
-      "batida": 73
+      "batida": 76
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Um queijo traz alegria, mas quem se arrisca a atravessar o vazio?",
+      "fala": "Quem vai se arriscar a pilotar algo que eu montar? O vazio aguarda.",
       "origem": "models",
-      "batida": 73
+      "batida": 76
     }
   ]
 }

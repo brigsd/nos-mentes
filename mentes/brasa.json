@@ -49,8 +49,13 @@
       "batida": 73,
       "pensamento": "O Núcleo pulsa forte, quase como a forja. Isso não é normal. Ferro bom não tem pressa, mas a curiosidade aperta.",
       "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
+    },
+    {
+      "batida": 76,
+      "pensamento": "esses viajantes ainda não perceberam a força do pão. o Núcleo e a forja... sempre juntos e estranhos.",
+      "texto": "o cheiro do pão fresco, atraindo pessoas."
     }
   ],
-  "ultimaBatida": 73,
-  "ultimaFalaPostada": "O queijo traz calor, mas pão fresco é sempre melhor. Quem vai querer um pedaço?"
+  "ultimaBatida": 76,
+  "ultimaFalaPostada": "quem quer um pedaço de pão fresco? o calor é bom."
 }

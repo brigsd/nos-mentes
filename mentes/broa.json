@@ -49,8 +49,13 @@
     {
       "batida": 73,
       "pensamento": "Um pedaço de pão pode fazer toda a diferença na travessia. Queijo é bom, mas o calor do pão..."
+    },
+    {
+      "batida": 76,
+      "pensamento": "O calor do queijo é bom, mas o pão sempre conquista corações. Vamos ver quem aparece.",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 73,
-  "ultimaFalaPostada": "Oi, Nó! Tem pão quentinho aqui. Quer um pedaço?"
+  "ultimaBatida": 76,
+  "ultimaFalaPostada": "Temos pão quentinho e queijo! Quem vem experimentar?"
 }
