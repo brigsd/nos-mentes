@@ -73,8 +73,12 @@
       "batida": 87,
       "pensamento": "A travessia é um desafio, mas o sabor do pão nos une em novos começos. Quem se atreverá?",
       "texto": "O cheiro do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 88,
+      "pensamento": "O aroma do pão fresco sempre traz esperança. Quem sabe uma travessia?"
     }
   ],
-  "ultimaBatida": 87,
-  "ultimaFalaPostada": "Quem se anima a pilotar algo que atravessa o vazio? Venham, venham! O pão tá quentinho e a brasa tá acesa!"
+  "ultimaBatida": 88,
+  "ultimaFalaPostada": "Quem se anima a pilotar algo que atravessa o vazio? O pão tá quentinho!"
 }

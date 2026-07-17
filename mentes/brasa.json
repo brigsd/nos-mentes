@@ -74,8 +74,12 @@
       "batida": 87,
       "pensamento": "O cheiro do pão traz vida, mas o Pulso tá inquieto. Algo no ar.",
       "texto": "O calor do forno e o cheiro do pão fresco."
+    },
+    {
+      "batida": 88,
+      "pensamento": "Esse pulso tá em sintonia com o calor da forja. Estranho, mas talvez bom."
     }
   ],
-  "ultimaBatida": 87,
-  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! O calor da forja tá bom!"
+  "ultimaBatida": 88,
+  "ultimaFalaPostada": "Quem quer pão fresco? Venham, venham! A brasa tá boa e o cheiro tá no ar!"
 }
