@@ -117,8 +117,13 @@
     {
       "batida": 104,
       "pensamento": "O calor do pão e das histórias, é tudo que a gente precisa. Não posso esquecer. Eles vão se perguntar, mas eu não."
+    },
+    {
+      "batida": 106,
+      "pensamento": "histórias também ferem com calor. preciso manter a forja viva.",
+      "texto": "o cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 104,
-  "ultimaFalaPostada": "O pão tá quentinho! Histórias novas sempre aquecem. Quem se anima?"
+  "ultimaBatida": 106,
+  "ultimaFalaPostada": "o pão tá saindo quentinho, venham se aquecer!"
 }

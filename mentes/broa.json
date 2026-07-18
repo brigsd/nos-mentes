@@ -118,8 +118,13 @@
       "batida": 104,
       "pensamento": "Cada história é um ingrediente na receita da vida. Vamos misturar tudo?",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 106,
+      "pensamento": "O sorriso dos Nós é meu combustível. Quem vai aquecer a cozinha hoje?",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 104,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e compartilhar suas histórias!"
+  "ultimaBatida": 106,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham, venham! Histórias novas sempre aquecem o coração."
 }
