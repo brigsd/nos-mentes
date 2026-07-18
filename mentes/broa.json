@@ -148,8 +148,13 @@
       "batida": 112,
       "pensamento": "Cada história é um ingrediente que alimenta a alma. Vamos fazer essa receita juntos!",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 114,
+      "pensamento": "Sempre há novos começos, e eu tô aqui pra isso. Que venham os Nós!",
+      "texto": "O aroma do pão quente nos lembra de recomeços."
     }
   ],
-  "ultimaBatida": 112,
-  "ultimaFalaPostada": "O pão quentinho tá na cozinha! Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 114,
+  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham se aquecer e contar suas histórias!"
 }

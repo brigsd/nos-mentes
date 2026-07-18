@@ -146,8 +146,13 @@
     {
       "batida": 112,
       "pensamento": "O aroma do pão sempre traz calor. O Núcleo deve sentir isso também."
+    },
+    {
+      "batida": 114,
+      "pensamento": "O cheiro atrai, mas será que as histórias aquecem?",
+      "texto": "O aroma do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 112,
-  "ultimaFalaPostada": "O pão tá quentinho na cozinha. Venham se aquecer."
+  "ultimaBatida": 114,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer!"
 }

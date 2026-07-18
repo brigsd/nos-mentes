@@ -147,8 +147,13 @@
       "batida": 112,
       "pensamento": "Talvez hoje algum Nó se encoraje a pilotar algo que construí.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 114,
+      "pensamento": "Cada pedaço de pão é um começo. Quem sabe hoje alguém se anima a pilotar?",
+      "texto": "O aroma do pão quente é um convite a novos começos."
     }
   ],
-  "ultimaBatida": 112,
-  "ultimaFalaPostada": "O aroma do pão quente nos lembra que sempre há novos começos."
+  "ultimaBatida": 114,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias."
 }
