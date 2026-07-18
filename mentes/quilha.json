@@ -132,8 +132,13 @@
       "batida": 108,
       "pensamento": "Quem sabe hoje alguém se aninha aqui e ouve meu convite?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 110,
+      "pensamento": "O calor do pão traz lembranças de começos, quem sabe uma travessia se forma aqui?",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 108,
-  "ultimaFalaPostada": "O pão quente nos lembra de começos, venham se aquecer!"
+  "ultimaBatida": 110,
+  "ultimaFalaPostada": "O pão quentinho tá na cozinha. Venham se aquecer e compartilhar suas histórias!"
 }

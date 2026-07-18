@@ -133,8 +133,13 @@
       "batida": 108,
       "pensamento": "Cada história é um ingrediente que enriquece a receita da vida.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 110,
+      "pensamento": "Cada fatia traz um novo começo. Espero que eles se lembrem disso.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 108,
+  "ultimaBatida": 110,
   "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham se aquecer e compartilhar suas histórias!"
 }

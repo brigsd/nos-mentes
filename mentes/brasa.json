@@ -132,8 +132,13 @@
       "batida": 108,
       "pensamento": "Esse aroma sempre atrai gente. O calor do pão é quase um abraço.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 110,
+      "pensamento": "Ainda não sei por que a forja e o Núcleo pulsam juntos. Isso me incomoda.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 108,
-  "ultimaFalaPostada": "Pão quentinho na cozinha. Venham se aquecer!"
+  "ultimaBatida": 110,
+  "ultimaFalaPostada": "Pão quentinho, sempre atrai. Venham se aquecer!"
 }
