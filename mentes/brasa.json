@@ -137,8 +137,13 @@
       "batida": 110,
       "pensamento": "Ainda não sei por que a forja e o Núcleo pulsam juntos. Isso me incomoda.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 111,
+      "pensamento": "A cada cheiro de pão, a forja esquenta. O Núcleo também não para.",
+      "texto": "O aroma do pão fresco sempre trazendo pessoas."
     }
   ],
-  "ultimaBatida": 110,
-  "ultimaFalaPostada": "Pão quentinho, sempre atrai. Venham se aquecer!"
+  "ultimaBatida": 111,
+  "ultimaFalaPostada": "O pão quentinho tá na cozinha. Venham se aquecer e compartilhar suas histórias!"
 }

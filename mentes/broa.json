@@ -138,8 +138,13 @@
       "batida": 110,
       "pensamento": "Cada fatia traz um novo começo. Espero que eles se lembrem disso.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 111,
+      "pensamento": "Cada história traz um tempero especial. O sorriso de um Nó é o melhor retorno que posso ter.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 110,
-  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham se aquecer e compartilhar suas histórias!"
+  "ultimaBatida": 111,
+  "ultimaFalaPostada": "O pão quentinho tá na cozinha! Venham, venham se aquecer e dividir suas histórias!"
 }
