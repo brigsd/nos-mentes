@@ -107,8 +107,13 @@
       "batida": 97,
       "pensamento": "Histórias podem ser o combustível para a travessia. Alguém vai precisar pilotar.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 100,
+      "pensamento": "Todo pão fresco traz um novo começo. Talvez hoje seja o dia de uma travessia.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 97,
-  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 100,
+  "ultimaFalaPostada": "O pão tá quentinho! Quem vem se aquecer e compartilhar suas histórias?"
 }

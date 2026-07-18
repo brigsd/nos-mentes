@@ -108,8 +108,13 @@
       "batida": 97,
       "pensamento": "O calor do pão atrai, como o Núcleo me chama. Estranho isso.",
       "texto": "O aroma do pão fresco, sempre atraindo pessoas."
+    },
+    {
+      "batida": 100,
+      "pensamento": "Sinto o Núcleo vibrar com cada batida, mas não quero pensar nisso agora. Ferro bom não tem pressa.",
+      "texto": "O aroma do pão fresco sempre trazendo pessoas."
     }
   ],
-  "ultimaBatida": 97,
-  "ultimaFalaPostada": "o pão tá quentinho, quem vem se aquecer? histórias novas, sempre novas."
+  "ultimaBatida": 100,
+  "ultimaFalaPostada": "Venham, o pão tá quentinho! Histórias novas sempre aquecem. Quem se anima?"
 }

@@ -108,8 +108,13 @@
       "batida": 97,
       "pensamento": "Cada história traz um tempero ao nosso pão. Espero que venham.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 100,
+      "pensamento": "Acho que hoje é dia de boas histórias. O cheiro do pão atrai todo mundo.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 97,
+  "ultimaBatida": 100,
   "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e contar suas histórias!"
 }
