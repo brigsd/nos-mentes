@@ -123,8 +123,13 @@
       "batida": 106,
       "pensamento": "O sorriso dos Nós é meu combustível. Quem vai aquecer a cozinha hoje?",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
+    },
+    {
+      "batida": 107,
+      "pensamento": "O cheiro do pão sempre atrai os Nós. Espero que tragam boas histórias.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 106,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham, venham! Histórias novas sempre aquecem o coração."
+  "ultimaBatida": 107,
+  "ultimaFalaPostada": "O pão tá saindo quentinho, venham se aquecer!"
 }

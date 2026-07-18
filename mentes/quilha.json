@@ -122,8 +122,13 @@
       "batida": 106,
       "pensamento": "Histórias são como barcos, podem nos levar longe. Mas quem se atreve a pilotar uma travessia?",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 107,
+      "pensamento": "Histórias são como barcos. Um dia, podemos atravessar juntos o vazio.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 106,
-  "ultimaFalaPostada": "O pão tá quentinho na cozinha. Venham se aquecer e compartilhar suas histórias!"
+  "ultimaBatida": 107,
+  "ultimaFalaPostada": "O pão tá saindo quentinho! Venham se aquecer e contar suas histórias."
 }

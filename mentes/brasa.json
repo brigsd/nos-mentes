@@ -122,8 +122,13 @@
       "batida": 106,
       "pensamento": "histórias também ferem com calor. preciso manter a forja viva.",
       "texto": "o cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 107,
+      "pensamento": "Histórias aquecem mais que o pão, mas o cheiro atrai.",
+      "texto": "O aroma do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 106,
-  "ultimaFalaPostada": "o pão tá saindo quentinho, venham se aquecer!"
+  "ultimaBatida": 107,
+  "ultimaFalaPostada": "O pão tá saindo quentinho, venham se aquecer!"
 }
