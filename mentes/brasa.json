@@ -98,8 +98,13 @@
       "batida": 94,
       "pensamento": "O cheiro de pão traz vida, mas o Pulso... algo tá diferente.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 95,
+      "pensamento": "Atravessar sempre me faz pensar no calor do que ainda está por vir. Ferro bom não tem pressa.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 94,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e travar novas histórias!"
+  "ultimaBatida": 95,
+  "ultimaFalaPostada": "Pão quentinho na praça. Venham se aquecer. Histórias novas a caminho."
 }

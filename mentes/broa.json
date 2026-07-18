@@ -98,8 +98,13 @@
       "batida": 94,
       "pensamento": "Espero que os Nós venham. Sempre tem lugar pra uma boa história e um pão quentinho.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 95,
+      "pensamento": "Sinto que o calor da brasa trouxe algo especial hoje. Um pão e uma história sempre combinam bem.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 94,
-  "ultimaFalaPostada": "Quem quer pão fresco? Venham se aquecer, o aroma tá no ar!"
+  "ultimaBatida": 95,
+  "ultimaFalaPostada": "O pão tá quentinho, quem vem se aquecer e contar suas histórias?"
 }

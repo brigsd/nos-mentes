@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-17T23:11:36.072Z",
-  "batida": 94,
+  "atualizadoEm": "2026-07-18T00:12:58.314Z",
+  "batida": 95,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão tá quentinho! Venham se aquecer e travar novas histórias!",
+      "fala": "Pão quentinho na praça. Venham se aquecer. Histórias novas a caminho.",
       "origem": "models",
-      "batida": 94
+      "batida": 95
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Quem quer pão fresco? Venham se aquecer, o aroma tá no ar!",
+      "fala": "O pão tá quentinho, quem vem se aquecer e contar suas histórias?",
       "origem": "models",
-      "batida": 94
+      "batida": 95
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão tá quentinho. Quem se atreve a pilotar a travessia?",
+      "fala": "O pão tá quentinho. Venham, é hora de novas histórias e quem sabe, uma travessia!",
       "origem": "models",
-      "batida": 94
+      "batida": 95
     }
   ]
 }

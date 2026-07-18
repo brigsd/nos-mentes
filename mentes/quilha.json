@@ -97,8 +97,13 @@
       "batida": 94,
       "pensamento": "Este pão é a promessa de novos começos. Alguém há de se arriscar.",
       "texto": "O cheiro do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 95,
+      "pensamento": "A travessia precisa de um piloto. Alguém que sinta a batida do Pulso. É hora de coragem.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 94,
-  "ultimaFalaPostada": "O pão tá quentinho. Quem se atreve a pilotar a travessia?"
+  "ultimaBatida": 95,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham, é hora de novas histórias e quem sabe, uma travessia!"
 }
