@@ -113,8 +113,12 @@
       "batida": 100,
       "pensamento": "Sinto o Núcleo vibrar com cada batida, mas não quero pensar nisso agora. Ferro bom não tem pressa.",
       "texto": "O aroma do pão fresco sempre trazendo pessoas."
+    },
+    {
+      "batida": 104,
+      "pensamento": "O calor do pão e das histórias, é tudo que a gente precisa. Não posso esquecer. Eles vão se perguntar, mas eu não."
     }
   ],
-  "ultimaBatida": 100,
-  "ultimaFalaPostada": "Venham, o pão tá quentinho! Histórias novas sempre aquecem. Quem se anima?"
+  "ultimaBatida": 104,
+  "ultimaFalaPostada": "O pão tá quentinho! Histórias novas sempre aquecem. Quem se anima?"
 }

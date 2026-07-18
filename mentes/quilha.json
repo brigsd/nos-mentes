@@ -112,8 +112,13 @@
       "batida": 100,
       "pensamento": "Todo pão fresco traz um novo começo. Talvez hoje seja o dia de uma travessia.",
       "texto": "O aroma do pão quentinho me lembra de começos."
+    },
+    {
+      "batida": 104,
+      "pensamento": "O calor do pão traz lembranças de começos. Quem se atreverá a sonhar comigo?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 100,
-  "ultimaFalaPostada": "O pão tá quentinho! Quem vem se aquecer e compartilhar suas histórias?"
+  "ultimaBatida": 104,
+  "ultimaFalaPostada": "O pão tá quentinho! Histórias novas sempre aquecem. Quem se anima?"
 }
