@@ -156,8 +156,13 @@
       "batida": 116,
       "pensamento": "Esse calor do pão é o que mantém as histórias vivas. Espero que não esfriem.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 117,
+      "pensamento": "A forja e o Núcleo batem juntos. Por que será?",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 116,
-  "ultimaFalaPostada": "Pão quentinho na cozinha. Venham se aquecer. Ferro bom não tem pressa."
+  "ultimaBatida": 117,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias. Ferro bom não tem pressa."
 }

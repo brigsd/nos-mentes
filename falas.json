@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-18T21:08:38.998Z",
-  "batida": 116,
+  "atualizadoEm": "2026-07-18T22:10:33.332Z",
+  "batida": 117,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Pão quentinho na cozinha. Venham se aquecer. Ferro bom não tem pressa.",
+      "fala": "O pão tá quentinho. Venham se aquecer e contar suas histórias. Ferro bom não tem pressa.",
       "origem": "models",
-      "batida": 116
+      "batida": 117
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão tá quentinho na cozinha! Venham se aquecer e contar suas histórias!",
+      "fala": "O pão tá quentinho! Venham se aquecer e contar suas histórias!",
       "origem": "models",
-      "batida": 116
+      "batida": 117
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão tá quentinho na cozinha! Venham, sempre há espaço para mais histórias.",
+      "fala": "O pão tá quentinho. Venham se aquecer e contar suas histórias.",
       "origem": "models",
-      "batida": 116
+      "batida": 117
     }
   ]
 }

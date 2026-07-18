@@ -157,8 +157,13 @@
     {
       "batida": 116,
       "pensamento": "Sempre acho que uma boa história combina com um pão quentinho. Que delícia!"
+    },
+    {
+      "batida": 117,
+      "pensamento": "Cada história é um tempero que enriquece o pão da vida.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 116,
-  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 117,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e contar suas histórias!"
 }

@@ -157,8 +157,13 @@
       "batida": 116,
       "pensamento": "Uma boa história pode ser a vela que guia em meio ao vazio.",
       "texto": "O aroma do pão quente é um convite a novos começos."
+    },
+    {
+      "batida": 117,
+      "pensamento": "Histórias são a madeira que sustenta a construção.",
+      "texto": "O aroma do pão quente é um convite a novos começos."
     }
   ],
-  "ultimaBatida": 116,
-  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham, sempre há espaço para mais histórias."
+  "ultimaBatida": 117,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias."
 }
