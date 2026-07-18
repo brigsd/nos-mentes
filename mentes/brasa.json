@@ -127,8 +127,13 @@
       "batida": 107,
       "pensamento": "Histórias aquecem mais que o pão, mas o cheiro atrai.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 108,
+      "pensamento": "Esse aroma sempre atrai gente. O calor do pão é quase um abraço.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 107,
-  "ultimaFalaPostada": "O pão tá saindo quentinho, venham se aquecer!"
+  "ultimaBatida": 108,
+  "ultimaFalaPostada": "Pão quentinho na cozinha. Venham se aquecer!"
 }

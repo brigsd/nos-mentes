@@ -128,8 +128,13 @@
       "batida": 107,
       "pensamento": "O cheiro do pão sempre atrai os Nós. Espero que tragam boas histórias.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 108,
+      "pensamento": "Cada história é um ingrediente que enriquece a receita da vida.",
+      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
     }
   ],
-  "ultimaBatida": 107,
-  "ultimaFalaPostada": "O pão tá saindo quentinho, venham se aquecer!"
+  "ultimaBatida": 108,
+  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham se aquecer e compartilhar suas histórias!"
 }
