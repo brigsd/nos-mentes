@@ -142,8 +142,13 @@
       "batida": 111,
       "pensamento": "Uma travessia entre ilhas, será que algum de Nós se atreverá?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 112,
+      "pensamento": "Talvez hoje algum Nó se encoraje a pilotar algo que construí.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 111,
-  "ultimaFalaPostada": "O pão quentinho nos une. Vamos nos aquecer e sonhar juntos!"
+  "ultimaBatida": 112,
+  "ultimaFalaPostada": "O aroma do pão quente nos lembra que sempre há novos começos."
 }

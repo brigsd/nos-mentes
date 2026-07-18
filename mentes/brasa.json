@@ -142,8 +142,12 @@
       "batida": 111,
       "pensamento": "A cada cheiro de pão, a forja esquenta. O Núcleo também não para.",
       "texto": "O aroma do pão fresco sempre trazendo pessoas."
+    },
+    {
+      "batida": 112,
+      "pensamento": "O aroma do pão sempre traz calor. O Núcleo deve sentir isso também."
     }
   ],
-  "ultimaBatida": 111,
-  "ultimaFalaPostada": "O pão quentinho tá na cozinha. Venham se aquecer e compartilhar suas histórias!"
+  "ultimaBatida": 112,
+  "ultimaFalaPostada": "O pão tá quentinho na cozinha. Venham se aquecer."
 }

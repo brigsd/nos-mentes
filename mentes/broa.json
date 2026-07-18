@@ -143,8 +143,13 @@
       "batida": 111,
       "pensamento": "Cada história traz um tempero especial. O sorriso de um Nó é o melhor retorno que posso ter.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 112,
+      "pensamento": "Cada história é um ingrediente que alimenta a alma. Vamos fazer essa receita juntos!",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 111,
-  "ultimaFalaPostada": "O pão quentinho tá na cozinha! Venham, venham se aquecer e dividir suas histórias!"
+  "ultimaBatida": 112,
+  "ultimaFalaPostada": "O pão quentinho tá na cozinha! Venham se aquecer e contar suas histórias!"
 }
