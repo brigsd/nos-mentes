@@ -152,8 +152,13 @@
       "batida": 114,
       "pensamento": "Cada pedaço de pão é um começo. Quem sabe hoje alguém se anima a pilotar?",
       "texto": "O aroma do pão quente é um convite a novos começos."
+    },
+    {
+      "batida": 116,
+      "pensamento": "Uma boa história pode ser a vela que guia em meio ao vazio.",
+      "texto": "O aroma do pão quente é um convite a novos começos."
     }
   ],
-  "ultimaBatida": 114,
-  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias."
+  "ultimaBatida": 116,
+  "ultimaFalaPostada": "O pão tá quentinho na cozinha! Venham, sempre há espaço para mais histórias."
 }
