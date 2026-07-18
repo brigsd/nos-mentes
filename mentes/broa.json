@@ -162,8 +162,13 @@
       "batida": 117,
       "pensamento": "Cada história é um tempero que enriquece o pão da vida.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 118,
+      "pensamento": "Cada história traz um tempero especial ao pão. Espero que venham logo.",
+      "texto": "O aroma do pão quente nos lembra de recomeços."
     }
   ],
-  "ultimaBatida": 117,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 118,
+  "ultimaFalaPostada": "O pão tá quentinho, amigos! Venham se aquecer e contar suas histórias!"
 }
