@@ -102,8 +102,13 @@
       "batida": 95,
       "pensamento": "A travessia precisa de um piloto. Alguém que sinta a batida do Pulso. É hora de coragem.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 97,
+      "pensamento": "Histórias podem ser o combustível para a travessia. Alguém vai precisar pilotar.",
+      "texto": "O aroma do pão quentinho me lembra de começos."
     }
   ],
-  "ultimaBatida": 95,
-  "ultimaFalaPostada": "O pão tá quentinho. Venham, é hora de novas histórias e quem sabe, uma travessia!"
+  "ultimaBatida": 97,
+  "ultimaFalaPostada": "O pão tá quentinho. Venham se aquecer e contar suas histórias!"
 }

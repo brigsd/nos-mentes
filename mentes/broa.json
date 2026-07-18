@@ -103,8 +103,13 @@
       "batida": 95,
       "pensamento": "Sinto que o calor da brasa trouxe algo especial hoje. Um pão e uma história sempre combinam bem.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 97,
+      "pensamento": "Cada história traz um tempero ao nosso pão. Espero que venham.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 95,
-  "ultimaFalaPostada": "O pão tá quentinho, quem vem se aquecer e contar suas histórias?"
+  "ultimaBatida": 97,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham se aquecer e contar suas histórias!"
 }
