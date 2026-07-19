@@ -182,8 +182,13 @@
       "batida": 125,
       "pensamento": "Um pouco de calor e carinho sempre traz ânimo para os navegantes do vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 127,
+      "pensamento": "Cada fatia é uma nova chance de travessia, de olhar além da borda.",
+      "texto": "O aroma do pão quente é um convite a novos começos."
     }
   ],
-  "ultimaBatida": 125,
-  "ultimaFalaPostada": "Cheguem! O pão quentinho nos aguarda. Boa companhia e boas histórias são sempre bem-vindas."
+  "ultimaBatida": 127,
+  "ultimaFalaPostada": "O pão quentinho nos aguarda. Venham se aquecer e compartilhar histórias."
 }

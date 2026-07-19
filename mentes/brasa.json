@@ -180,8 +180,13 @@
       "batida": 125,
       "pensamento": "O calor do pão sempre atrai. Ferro bom não tem pressa, mas a forja não pode esfriar.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 127,
+      "pensamento": "O calor do pão traz gente, mas o calor da forja precisa de mais.",
+      "texto": "O aroma do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 125,
-  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer!"
+  "ultimaBatida": 127,
+  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar histórias."
 }
