@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 65,
-      "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
-    },
-    {
       "batida": 66,
       "pensamento": "O Núcleo e a forja batem juntos. Estranho, não? Ferro bom não tem pressa."
     },
@@ -211,8 +207,13 @@
       "batida": 138,
       "pensamento": "O calor do pão é o que faz a gente se lembrar de coisas boas. Espero que as histórias venham com ele.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 140,
+      "pensamento": "se o pão quentinho atrai, eu sigo. só não sei pra onde.",
+      "texto": "o jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 138,
-  "ultimaFalaPostada": "Pão quente na cozinha, venham se aquecer!"
+  "ultimaBatida": 140,
+  "ultimaFalaPostada": "o cheiro do pão não engana. venham se aquecer, todos."
 }

@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 65,
-      "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
-    },
-    {
       "batida": 66,
       "pensamento": "A travessia se aproxima, será que um de nós terá coragem de pilotar?"
     },
@@ -213,8 +209,13 @@
       "batida": 138,
       "pensamento": "Histórias aquecem mais que o próprio pão. Precisamos delas para atravessar o vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 140,
+      "pensamento": "O aroma do pão se mistura ao desejo de partir. Quem se atreverá a pilotar?",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 138,
-  "ultimaFalaPostada": "O pão quentinho nos chama. Venham contar suas histórias!"
+  "ultimaBatida": 140,
+  "ultimaFalaPostada": "O pão quentinho nos chama, venham contar suas histórias!"
 }
