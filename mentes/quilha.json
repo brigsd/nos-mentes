@@ -192,8 +192,13 @@
       "batida": 129,
       "pensamento": "Nada como o aroma do pão para recordar que novos começos sempre são possíveis.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 131,
+      "pensamento": "Quem sabe um desses Nós se atreve a voar. O vazio me fascina e assusta.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 129,
-  "ultimaFalaPostada": "O pão quentinho na cozinha nos chama. Venham se aquecer e contar histórias."
+  "ultimaBatida": 131,
+  "ultimaFalaPostada": "O aroma do pão quente nos convida a novos começos. Vamos nos aquecer juntos."
 }

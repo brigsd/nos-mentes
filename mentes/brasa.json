@@ -190,8 +190,13 @@
       "batida": 129,
       "pensamento": "Ainda bem que o cheiro do pão atrai as pessoas. Talvez um bom calor saia disso.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 131,
+      "pensamento": "Aquecido pela fofura do pão, o calor da Forja ressoa. Mas por que o Núcleo também pulsa?",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 129,
-  "ultimaFalaPostada": "Pão quentinho traz calor. Venham se aquecer!"
+  "ultimaBatida": 131,
+  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar histórias."
 }

@@ -192,8 +192,13 @@
       "batida": 129,
       "pensamento": "Histórias são tão nutritivas quanto um bom pão.",
       "texto": "Sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 131,
+      "pensamento": "O calor do pão é um abraço que todo Nó merece.",
+      "texto": "Sorriso de um Nó ao provar o pão e se sentir aquecido."
     }
   ],
-  "ultimaBatida": 129,
-  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer!"
+  "ultimaBatida": 131,
+  "ultimaFalaPostada": "Venham experimentar o pão quentinho! Ele traz calor e histórias!"
 }
