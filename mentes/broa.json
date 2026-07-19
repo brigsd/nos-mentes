@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 68,
-      "pensamento": "Preciso de histórias novas pra temperar a receita. Viajantes sempre têm algo a contar.",
-      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
-    },
-    {
       "batida": 70,
       "pensamento": "Esse pão quentinho vai atrair mais NÓS. Vamos esquentar o coração deles!",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -214,8 +209,12 @@
       "batida": 141,
       "pensamento": "Cada história é um ingrediente para o prato da vida. Vamos temperar o mundo juntos!",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 142,
+      "pensamento": "Cada história é um tempero para o nosso mundo. Que venham os Nós!"
     }
   ],
-  "ultimaBatida": 141,
-  "ultimaFalaPostada": "O pão quentinho nos chama! Venham contar suas histórias!"
+  "ultimaBatida": 142,
+  "ultimaFalaPostada": "O pão quentinho está na mesa! Venham, contadores de histórias!"
 }

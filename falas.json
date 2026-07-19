@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-19T22:12:00.338Z",
-  "batida": 141,
+  "atualizadoEm": "2026-07-19T23:15:03.359Z",
+  "batida": 142,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão quentinho faz o mundo girar. Venham se aquecer. Não deixem o frio entrar!",
+      "fala": "O pão quentinho atrai histórias. Venham se aquecer! Não deixem o frio entrar.",
       "origem": "models",
-      "batida": 141
+      "batida": 142
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho nos chama! Venham contar suas histórias!",
+      "fala": "O pão quentinho está na mesa! Venham, contadores de histórias!",
       "origem": "models",
-      "batida": 141
+      "batida": 142
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho nos chama. Venham compartilhar suas histórias.",
+      "fala": "O pão quentinho nos chama. Venham contar suas histórias, viajantes.",
       "origem": "models",
-      "batida": 141
+      "batida": 142
     }
   ]
 }

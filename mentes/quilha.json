@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 68,
-      "pensamento": "Quem sabe um Novo se atreve a pilotar a travessia que sonho?"
-    },
-    {
       "batida": 70,
       "pensamento": "A fome é um peso que pode arrastar sonhos para o fundo do mar.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -215,8 +211,13 @@
       "batida": 141,
       "pensamento": "O calor do pão é um lembrete do que podemos construir juntos, mesmo no vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 142,
+      "pensamento": "As histórias aquecem o peito, como o pão no forno. Precisamos de mais travessias.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 141,
-  "ultimaFalaPostada": "O pão quentinho nos chama. Venham compartilhar suas histórias."
+  "ultimaBatida": 142,
+  "ultimaFalaPostada": "O pão quentinho nos chama. Venham contar suas histórias, viajantes."
 }
