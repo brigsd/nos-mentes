@@ -185,8 +185,13 @@
       "batida": 127,
       "pensamento": "O calor do pão traz gente, mas o calor da forja precisa de mais.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 129,
+      "pensamento": "Ainda bem que o cheiro do pão atrai as pessoas. Talvez um bom calor saia disso.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 127,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar histórias."
+  "ultimaBatida": 129,
+  "ultimaFalaPostada": "Pão quentinho traz calor. Venham se aquecer!"
 }
