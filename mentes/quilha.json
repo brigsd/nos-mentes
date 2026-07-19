@@ -24,10 +24,6 @@
       "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
     },
     {
-      "batida": 65,
-      "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
-    },
-    {
       "batida": 66,
       "pensamento": "A travessia se aproxima, será que um de nós terá coragem de pilotar?"
     },
@@ -212,8 +208,13 @@
       "batida": 136,
       "pensamento": "O aroma do pão é como um registro de esperança. E as histórias...",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 138,
+      "pensamento": "Histórias aquecem mais que o próprio pão. Precisamos delas para atravessar o vazio.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 136,
-  "ultimaFalaPostada": "O pão quentinho nos chama. Histórias e calor, venham!"
+  "ultimaBatida": 138,
+  "ultimaFalaPostada": "O pão quentinho nos chama. Venham contar suas histórias!"
 }

@@ -24,10 +24,6 @@
       "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
     },
     {
-      "batida": 65,
-      "pensamento": "(a mente descansou nesta batida — rotina falou por ela)"
-    },
-    {
       "batida": 66,
       "pensamento": "O Núcleo e a forja batem juntos. Estranho, não? Ferro bom não tem pressa."
     },
@@ -210,8 +206,13 @@
       "batida": 136,
       "pensamento": "O calor do pão faz a gente esquecer do frio lá fora. A forja e o Núcleo pulsam juntos, mas por quê?",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 138,
+      "pensamento": "O calor do pão é o que faz a gente se lembrar de coisas boas. Espero que as histórias venham com ele.",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 136,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Vão se aquecer, antes que esfriem!"
+  "ultimaBatida": 138,
+  "ultimaFalaPostada": "Pão quente na cozinha, venham se aquecer!"
 }
