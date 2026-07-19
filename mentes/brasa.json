@@ -175,8 +175,13 @@
       "batida": 121,
       "pensamento": "O cheiro do pão sempre atrai. E o Pulso tá bom. Isso me faz pensar...",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 125,
+      "pensamento": "O calor do pão sempre atrai. Ferro bom não tem pressa, mas a forja não pode esfriar.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 121,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham, venham!"
+  "ultimaBatida": 125,
+  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer!"
 }

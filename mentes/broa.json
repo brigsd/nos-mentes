@@ -177,8 +177,13 @@
       "batida": 121,
       "pensamento": "Cada história é um tempero que enriquece nossa mesa.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 125,
+      "pensamento": "Cada história traz um ingrediente novo pra minha receita de vida.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 121,
+  "ultimaBatida": 125,
   "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer e contar suas histórias!"
 }
