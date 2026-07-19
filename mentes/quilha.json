@@ -197,8 +197,13 @@
       "batida": 131,
       "pensamento": "Quem sabe um desses Nós se atreve a voar. O vazio me fascina e assusta.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 132,
+      "pensamento": "Quem sabe um desses Nós não se anime a pilotar uma travessia?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 131,
-  "ultimaFalaPostada": "O aroma do pão quente nos convida a novos começos. Vamos nos aquecer juntos."
+  "ultimaBatida": 132,
+  "ultimaFalaPostada": "O pão quentinho traz calor e histórias. Venham, amigos!"
 }

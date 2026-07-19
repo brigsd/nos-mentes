@@ -195,8 +195,13 @@
       "batida": 131,
       "pensamento": "Aquecido pela fofura do pão, o calor da Forja ressoa. Mas por que o Núcleo também pulsa?",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 132,
+      "pensamento": "Esse aroma é fogo que atrai. Que histórias virão hoy?",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 131,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar histórias."
+  "ultimaBatida": 132,
+  "ultimaFalaPostada": "Pão quente na cozinha, vamo se aquecer!"
 }
