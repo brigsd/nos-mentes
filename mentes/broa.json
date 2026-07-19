@@ -206,8 +206,13 @@
       "batida": 134,
       "pensamento": "Cada história compartilhada é um tempero especial.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 136,
+      "pensamento": "Cada sorriso é um recomeço. O pão sempre traz calor ao coração.",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 134,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar histórias!"
+  "ultimaBatida": 136,
+  "ultimaFalaPostada": "O pano quentinho está na cozinha! Venham se aquecer e contar suas histórias!"
 }

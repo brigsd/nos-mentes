@@ -205,8 +205,13 @@
       "batida": 134,
       "pensamento": "O calor do pão sempre atrai, como o Pulso. Curioso.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 136,
+      "pensamento": "O calor do pão faz a gente esquecer do frio lá fora. A forja e o Núcleo pulsam juntos, mas por quê?",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 134,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer!"
+  "ultimaBatida": 136,
+  "ultimaFalaPostada": "Pão quentinho na cozinha! Vão se aquecer, antes que esfriem!"
 }

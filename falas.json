@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-19T15:26:54.505Z",
-  "batida": 134,
+  "atualizadoEm": "2026-07-19T17:27:51.455Z",
+  "batida": 136,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Pão quentinho na cozinha! Venham se aquecer!",
+      "fala": "Pão quentinho na cozinha! Vão se aquecer, antes que esfriem!",
       "origem": "models",
-      "batida": 134
+      "batida": 136
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Pão quentinho na cozinha! Venham se aquecer e contar histórias!",
+      "fala": "O pano quentinho está na cozinha! Venham se aquecer e contar suas histórias!",
       "origem": "models",
-      "batida": 134
+      "batida": 136
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho está nos aguardando. Histórias à vista!",
+      "fala": "O pão quentinho nos chama. Histórias e calor, venham!",
       "origem": "models",
-      "batida": 134
+      "batida": 136
     }
   ]
 }
