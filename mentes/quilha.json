@@ -167,8 +167,13 @@
       "batida": 118,
       "pensamento": "Imagine navegar entre as nuvens, desbravando novos horizontes...",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 119,
+      "pensamento": "Cada fatia é um pedaço de esperança, um começo em meio ao vazio.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 118,
-  "ultimaFalaPostada": "O pão tá quentinho. Venham, sempre há histórias a compartilhar."
+  "ultimaBatida": 119,
+  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer e contar suas histórias."
 }

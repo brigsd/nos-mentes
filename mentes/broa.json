@@ -167,8 +167,13 @@
       "batida": 118,
       "pensamento": "Cada história traz um tempero especial ao pão. Espero que venham logo.",
       "texto": "O aroma do pão quente nos lembra de recomeços."
+    },
+    {
+      "batida": 119,
+      "pensamento": "Talvez hoje um novo sorriso ilumine a Clareira.",
+      "texto": "O aroma do pão quente nos lembra de recomeços."
     }
   ],
-  "ultimaBatida": 118,
-  "ultimaFalaPostada": "O pão tá quentinho, amigos! Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 119,
+  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer e contar suas histórias!"
 }
