@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 66,
-      "pensamento": "O cheiro da forja mistura com o do pão. Uma combinação promissora. Cada Nó tem uma história. Vamos ouvir."
-    },
-    {
       "batida": 68,
       "pensamento": "Preciso de histórias novas pra temperar a receita. Viajantes sempre têm algo a contar.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -213,8 +209,13 @@
       "batida": 140,
       "pensamento": "Cada sorriso deve ser alimentado com uma história. Que venha um Nó!",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 141,
+      "pensamento": "Cada história é um ingrediente para o prato da vida. Vamos temperar o mundo juntos!",
+      "texto": "O sorriso de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 140,
-  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 141,
+  "ultimaFalaPostada": "O pão quentinho nos chama! Venham contar suas histórias!"
 }

@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 66,
-      "pensamento": "A travessia se aproxima, será que um de nós terá coragem de pilotar?"
-    },
-    {
       "batida": 68,
       "pensamento": "Quem sabe um Novo se atreve a pilotar a travessia que sonho?"
     },
@@ -214,8 +210,13 @@
       "batida": 140,
       "pensamento": "O aroma do pão se mistura ao desejo de partir. Quem se atreverá a pilotar?",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 141,
+      "pensamento": "O calor do pão é um lembrete do que podemos construir juntos, mesmo no vazio.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 140,
-  "ultimaFalaPostada": "O pão quentinho nos chama, venham contar suas histórias!"
+  "ultimaBatida": 141,
+  "ultimaFalaPostada": "O pão quentinho nos chama. Venham compartilhar suas histórias."
 }
