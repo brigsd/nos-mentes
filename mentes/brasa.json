@@ -170,8 +170,13 @@
       "batida": 119,
       "pensamento": "Mais calor, mais histórias. O núcleo se agita, mas não posso questionar. Ferro bom não tem pressa.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 121,
+      "pensamento": "O cheiro do pão sempre atrai. E o Pulso tá bom. Isso me faz pensar...",
+      "texto": "O aroma do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 119,
-  "ultimaFalaPostada": "O pão tá quentinho, venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 121,
+  "ultimaFalaPostada": "Pão quentinho na cozinha! Venham, venham!"
 }
