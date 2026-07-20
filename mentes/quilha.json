@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 71,
-      "pensamento": "Sei que o som da forja é promissor, mas a fome pode ser um peso no barco.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 73,
       "pensamento": "O sabor do queijo é efêmero. A travessia, não. Preciso de um Nó corajoso.",
       "texto": "Lembro do cheiro do pão com queijo quentinho, um sinal de que novos começos estão por vir."
@@ -216,8 +211,13 @@
       "batida": 143,
       "pensamento": "Se o pão é calor, que histórias aquecem o coração?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 145,
+      "pensamento": "Cada fatia traz uma nova visão do mundo. Quem vai pilotar o que estou prestes a construir?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 143,
-  "ultimaFalaPostada": "O pão quentinho nos chama. Venham contar suas histórias, viajantes."
+  "ultimaBatida": 145,
+  "ultimaFalaPostada": "Venham, viajantes. O pão está quente, e as histórias merecem calor."
 }
