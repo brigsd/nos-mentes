@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-19T23:15:03.359Z",
-  "batida": 142,
+  "atualizadoEm": "2026-07-20T00:16:01.871Z",
+  "batida": 143,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão quentinho atrai histórias. Venham se aquecer! Não deixem o frio entrar.",
+      "fala": "Meu forno tá quente. Venham contar suas histórias, mas não tenham pressa.",
       "origem": "models",
-      "batida": 142
+      "batida": 143
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho está na mesa! Venham, contadores de histórias!",
+      "fala": "O pão quentinho nos chama, venham contar suas histórias!",
       "origem": "models",
-      "batida": 142
+      "batida": 143
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "O pão quentinho nos chama. Venham contar suas histórias, viajantes.",
       "origem": "models",
-      "batida": 142
+      "batida": 143
     }
   ]
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 70,
-      "pensamento": "A fome é um peso que pode arrastar sonhos para o fundo do mar.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 71,
       "pensamento": "Sei que o som da forja é promissor, mas a fome pode ser um peso no barco.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -216,8 +211,13 @@
       "batida": 142,
       "pensamento": "As histórias aquecem o peito, como o pão no forno. Precisamos de mais travessias.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 143,
+      "pensamento": "Se o pão é calor, que histórias aquecem o coração?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 142,
+  "ultimaBatida": 143,
   "ultimaFalaPostada": "O pão quentinho nos chama. Venham contar suas histórias, viajantes."
 }

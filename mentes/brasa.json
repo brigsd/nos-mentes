@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 70,
-      "pensamento": "A batida do Pulso tá firme. O calor tá seguro, mas não posso deixar a chama apagar.",
-      "texto": "O cheiro do pão fresco, isso sempre atrai pessoas."
-    },
-    {
       "batida": 71,
       "pensamento": "Esses banquetes são o que mantém o Núcleo aquecido. Mas e a forja?",
       "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
@@ -214,8 +209,13 @@
       "batida": 142,
       "pensamento": "A batida do Pulso e o calor da forja dançam juntos. Estranho isso.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 143,
+      "pensamento": "Histórias quentes aquecem o coração. O calor do pão pode unir a clareira.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 142,
-  "ultimaFalaPostada": "O pão quentinho atrai histórias. Venham se aquecer! Não deixem o frio entrar."
+  "ultimaBatida": 143,
+  "ultimaFalaPostada": "Meu forno tá quente. Venham contar suas histórias, mas não tenham pressa."
 }
