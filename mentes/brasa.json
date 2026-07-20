@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 87,
-      "pensamento": "O cheiro do pão traz vida, mas o Pulso tá inquieto. Algo no ar.",
-      "texto": "O calor do forno e o cheiro do pão fresco."
-    },
-    {
       "batida": 88,
       "pensamento": "Esse pulso tá em sintonia com o calor da forja. Estranho, mas talvez bom."
     },
@@ -214,8 +209,13 @@
       "batida": 161,
       "pensamento": "O cheiro do pão sempre traz pessoas. Um calor que acalma, mas é só um pouco.",
       "texto": "O sorriso de viajantes provando o pão quentinho."
+    },
+    {
+      "batida": 163,
+      "pensamento": "O calor do pão traz abraços, até pro coração gelado.",
+      "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 161,
-  "ultimaFalaPostada": "Pão quente sai da cozinha, venham sentir o calor!"
+  "ultimaBatida": 163,
+  "ultimaFalaPostada": "O pão tá saindo quente da cozinha! Venham sentir!"
 }
