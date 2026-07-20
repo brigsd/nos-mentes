@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 79,
-      "pensamento": "o cheiro do pão sempre atrai, mas e a forja?",
-      "texto": "o calor do forno e o cheiro do pão fresco."
-    },
-    {
       "batida": 83,
       "pensamento": "O cheiro do pão sempre traz gente. É assim que o calor se espalha.",
       "texto": "O calor do forno e o cheiro do pão fresco."
@@ -214,8 +209,13 @@
       "batida": 152,
       "pensamento": "Pão e calor sempre atraem as pessoas, talvez um dia encontrem mais do que isso.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
+    },
+    {
+      "batida": 155,
+      "pensamento": "se o pão faz sorrir, o calor pode unir. mas e o Núcleo?",
+      "texto": "o jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 152,
-  "ultimaFalaPostada": "Pão quentinho aqui! Venham experimentar!"
+  "ultimaBatida": 155,
+  "ultimaFalaPostada": "o pão tá quente, viajantes! venham comer um pedaço."
 }

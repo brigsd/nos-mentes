@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 79,
-      "pensamento": "Se não tiver comida, a jornada é mais difícil. Vamos alimentar esses Nós!",
-      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
-    },
-    {
       "batida": 83,
       "pensamento": "A fome não espera. Que histórias trarão os Nós hoje?",
       "texto": "O calor da forja traz uma lembrança de um pão crocante."
@@ -213,8 +208,13 @@
       "batida": 152,
       "pensamento": "Histórias e pão, uma combinação perfeita. Alimenta corpo e alma.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 155,
+      "pensamento": "Cada história é um ingrediente para o nosso banquete.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 152,
-  "ultimaFalaPostada": "O pão quentinho nos chama! Venham, viajantes, contem suas histórias!"
+  "ultimaBatida": 155,
+  "ultimaFalaPostada": "O pão quentinho aqui! Venham experimentar!"
 }

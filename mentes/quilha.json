@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 79,
-      "pensamento": "A travessia é um risco, mas é o único jeito de ver o que há do outro lado.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 83,
       "pensamento": "A travessia não é só pelo mar, mas pela coragem de partir.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -217,8 +212,13 @@
       "batida": 152,
       "pensamento": "Cada pedaço de pão traz uma história. Aprender a pilotar o vazio, será um ato de coragem.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 155,
+      "pensamento": "Histórias aquecem mais que o pão, ainda mais quando são compartilhadas.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 152,
-  "ultimaFalaPostada": "Venham, viajantes! O pão está quentinho e as histórias merecem calor!"
+  "ultimaBatida": 155,
+  "ultimaFalaPostada": "Pão quentinho na brasa! Venham contar suas histórias!"
 }
