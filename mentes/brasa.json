@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 88,
-      "pensamento": "Esse pulso tá em sintonia com o calor da forja. Estranho, mas talvez bom."
-    },
-    {
       "batida": 90,
       "pensamento": "Esse pulso tá diferente. O forno e o Núcleo dançando juntos, de novo.",
       "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
@@ -214,8 +210,13 @@
       "batida": 163,
       "pensamento": "O calor do pão traz abraços, até pro coração gelado.",
       "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 166,
+      "pensamento": "O calor do pão traz mais do que alimento. É vida. O Núcleo e a forja...",
+      "texto": "O sorriso de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 163,
-  "ultimaFalaPostada": "O pão tá saindo quente da cozinha! Venham sentir!"
+  "ultimaBatida": 166,
+  "ultimaFalaPostada": "O pão tá saindo quente! Vem sentir o calor. Ferro bom não tem pressa."
 }

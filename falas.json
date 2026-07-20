@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-20T20:44:26.926Z",
-  "batida": 163,
+  "atualizadoEm": "2026-07-20T22:16:37.616Z",
+  "batida": 166,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão tá saindo quente da cozinha! Venham sentir!",
+      "fala": "O pão tá saindo quente! Vem sentir o calor. Ferro bom não tem pressa.",
       "origem": "models",
-      "batida": 163
+      "batida": 166
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Pão quentinho na bancada, venham! O vazio pode ser atravessado!",
+      "fala": "O pão tá saindo quentinho da cozinha! Venham sentir!",
       "origem": "models",
-      "batida": 163
+      "batida": 166
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho é o primeiro passo. Quem vai pilotar a travessia?",
+      "fala": "O pão quente nos lembra que todo começo vale a pena. Quem se atreve a pilotar a travessia?",
       "origem": "models",
-      "batida": 163
+      "batida": 166
     }
   ]
 }
