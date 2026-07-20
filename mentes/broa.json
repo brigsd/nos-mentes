@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 90,
-      "pensamento": "A fome é uma sombra que assombra. Um pão quentinho pode iluminar o dia.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 92,
       "pensamento": "Se eu conseguir alimentar um Nó, quem sabe ele não compartilha uma boa história?",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -214,8 +209,13 @@
       "batida": 166,
       "pensamento": "A temperatura do pão pode fazer até um Nó triste sorrir.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 166,
+      "pensamento": "Sorrisos ainda são o melhor tempero. Vamos alimentar essas almas.",
+      "texto": "O momento em que um Nó sorriu ao experimentar o pão fresco."
     }
   ],
   "ultimaBatida": 166,
-  "ultimaFalaPostada": "O pão tá saindo quentinho da cozinha! Venham sentir!"
+  "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
 }

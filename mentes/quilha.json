@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 90,
-      "pensamento": "Cada pedaço de pão fresco é um passo para um novo começo. Vamos, viajantes, é hora de cruzar.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 92,
       "pensamento": "Aquela forja fervendo, o pão saindo, tudo conspira a favor dos começos. Que alguém pilote o que eu construir!",
       "texto": "O cheiro do pão com queijo me traz esperança."
@@ -218,8 +213,13 @@
       "batida": 166,
       "pensamento": "Se alguém se lançar, o vazio pode se encher de possibilidades. Mas quem teria coragem?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 166,
+      "pensamento": "A travessia pode ser nossa chance de voar sobre o vazio. Algum Nó vai se animar?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
   "ultimaBatida": 166,
-  "ultimaFalaPostada": "O pão quente nos lembra que todo começo vale a pena. Quem se atreve a pilotar a travessia?"
+  "ultimaFalaPostada": "O pão quentinho nos espera. Quem se atreve a pilotar a travessia?"
 }
