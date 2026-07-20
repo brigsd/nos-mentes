@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 76,
-      "pensamento": "O calor do queijo é bom, mas o pão sempre conquista corações. Vamos ver quem aparece.",
-      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
-    },
-    {
       "batida": 79,
       "pensamento": "Se não tiver comida, a jornada é mais difícil. Vamos alimentar esses Nós!",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -213,8 +208,13 @@
       "batida": 149,
       "pensamento": "Mais um pão quentinho e algumas boas histórias. Isso aquece a Clareira.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 152,
+      "pensamento": "Histórias e pão, uma combinação perfeita. Alimenta corpo e alma.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 149,
-  "ultimaFalaPostada": "Venham, viajantes! O pão está quentinho e as histórias merecem calor!"
+  "ultimaBatida": 152,
+  "ultimaFalaPostada": "O pão quentinho nos chama! Venham, viajantes, contem suas histórias!"
 }

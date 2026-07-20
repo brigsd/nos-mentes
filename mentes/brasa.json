@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 76,
-      "pensamento": "esses viajantes ainda não perceberam a força do pão. o Núcleo e a forja... sempre juntos e estranhos.",
-      "texto": "o cheiro do pão fresco, atraindo pessoas."
-    },
-    {
       "batida": 79,
       "pensamento": "o cheiro do pão sempre atrai, mas e a forja?",
       "texto": "o calor do forno e o cheiro do pão fresco."
@@ -214,8 +209,13 @@
       "batida": 149,
       "pensamento": "O cheiro do pão traz gente. O Núcleo tem seus mistérios, mas o calor é certo.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 152,
+      "pensamento": "Pão e calor sempre atraem as pessoas, talvez um dia encontrem mais do que isso.",
+      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
     }
   ],
-  "ultimaBatida": 149,
-  "ultimaFalaPostada": "Pão quentinho atrai calor. Venham, experimentem!"
+  "ultimaBatida": 152,
+  "ultimaFalaPostada": "Pão quentinho aqui! Venham experimentar!"
 }

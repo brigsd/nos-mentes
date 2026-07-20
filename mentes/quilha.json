@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 76,
-      "pensamento": "O queijo é bom, mas o pão fresco tem o poder de inspirar. Novos começos à vista?"
-    },
-    {
       "batida": 79,
       "pensamento": "A travessia é um risco, mas é o único jeito de ver o que há do outro lado.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -216,8 +212,13 @@
       "batida": 149,
       "pensamento": "Cada fatia de pão traz uma nova esperança. O calor aquece mais do que o corpo.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 152,
+      "pensamento": "Cada pedaço de pão traz uma história. Aprender a pilotar o vazio, será um ato de coragem.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 149,
-  "ultimaFalaPostada": "O pão quentinho nos chama! Venham, viajantes, contem suas histórias!"
+  "ultimaBatida": 152,
+  "ultimaFalaPostada": "Venham, viajantes! O pão está quentinho e as histórias merecem calor!"
 }
