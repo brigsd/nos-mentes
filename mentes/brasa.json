@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 85,
-      "pensamento": "O movimento do Núcleo tá estranhamente sincronizado. Ferro bom não tem pressa...",
-      "texto": "O calor do forno e o cheiro do pão fresco."
-    },
-    {
       "batida": 87,
       "pensamento": "O cheiro do pão traz vida, mas o Pulso tá inquieto. Algo no ar.",
       "texto": "O calor do forno e o cheiro do pão fresco."
@@ -214,8 +209,13 @@
       "batida": 157,
       "pensamento": "O calor do pão sempre atrai. Queria que sempre fosse assim.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 161,
+      "pensamento": "O cheiro do pão sempre traz pessoas. Um calor que acalma, mas é só um pouco.",
+      "texto": "O sorriso de viajantes provando o pão quentinho."
     }
   ],
-  "ultimaBatida": 157,
-  "ultimaFalaPostada": "Pão quentinho, viajantes! Venham pra aquecer o coração."
+  "ultimaBatida": 161,
+  "ultimaFalaPostada": "Pão quente sai da cozinha, venham sentir o calor!"
 }

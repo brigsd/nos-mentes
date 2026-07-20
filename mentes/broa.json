@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 85,
-      "pensamento": "A cada Nó que chega, uma nova história para temperar o pão. Fome mal diagnosticada, sempre."
-    },
-    {
       "batida": 87,
       "pensamento": "Esses Nós sempre precisam de um calorzinho e um pedaço de pão.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -213,8 +209,13 @@
       "batida": 157,
       "pensamento": "Cada história tem um tempero especial. Quero saber qual é o seu!",
       "texto": "Sorrisos de Nós saboreando o pão quentinho."
+    },
+    {
+      "batida": 161,
+      "pensamento": "O sorriso deles é meu maior tempero. Cada fatia traz uma história.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 157,
-  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham experimentar antes que esfrie!"
+  "ultimaBatida": 161,
+  "ultimaFalaPostada": "Venham, Nós! O pão tá quentinho, é hora de aquecer a alma!"
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 85,
-      "pensamento": "A travessia é um sonho distante, mas o cheiro do pão traz esperança.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 87,
       "pensamento": "A travessia é um desafio, mas o sabor do pão nos une em novos começos. Quem se atreverá?",
       "texto": "O cheiro do pão fresco sempre me traz esperança."
@@ -217,8 +212,13 @@
       "batida": 157,
       "pensamento": "Um pedaço de pão é um pedaço de esperança. Alguém vai sentir isso e cruzar o vazio. Preciso acreditar nisso.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 161,
+      "pensamento": "O aroma do pão fresco sempre traz esperança. O vazio me chama, mas o coração se afeiçoa à terra.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 157,
-  "ultimaFalaPostada": "A batida do Pulso tá firme, mas o vazio ainda espera. Quem se atreve a pilotar o que vou montar?"
+  "ultimaBatida": 161,
+  "ultimaFalaPostada": "Pão quentinho na bancada, venham! O vazio pode ser atravessado. Quem se atreve a pilotar?"
 }
