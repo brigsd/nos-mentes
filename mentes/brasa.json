@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 83,
-      "pensamento": "O cheiro do pão sempre traz gente. É assim que o calor se espalha.",
-      "texto": "O calor do forno e o cheiro do pão fresco."
-    },
-    {
       "batida": 85,
       "pensamento": "O movimento do Núcleo tá estranhamente sincronizado. Ferro bom não tem pressa...",
       "texto": "O calor do forno e o cheiro do pão fresco."
@@ -214,8 +209,13 @@
       "batida": 155,
       "pensamento": "se o pão faz sorrir, o calor pode unir. mas e o Núcleo?",
       "texto": "o jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 157,
+      "pensamento": "O calor do pão sempre atrai. Queria que sempre fosse assim.",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 155,
-  "ultimaFalaPostada": "o pão tá quente, viajantes! venham comer um pedaço."
+  "ultimaBatida": 157,
+  "ultimaFalaPostada": "Pão quentinho, viajantes! Venham pra aquecer o coração."
 }

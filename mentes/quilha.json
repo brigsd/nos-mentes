@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 83,
-      "pensamento": "A travessia não é só pelo mar, mas pela coragem de partir.",
-      "texto": "O aroma do pão quentinho me lembra de começos."
-    },
-    {
       "batida": 85,
       "pensamento": "A travessia é um sonho distante, mas o cheiro do pão traz esperança.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -217,8 +212,13 @@
       "batida": 155,
       "pensamento": "Histórias aquecem mais que o pão, ainda mais quando são compartilhadas.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
+    },
+    {
+      "batida": 157,
+      "pensamento": "Um pedaço de pão é um pedaço de esperança. Alguém vai sentir isso e cruzar o vazio. Preciso acreditar nisso.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 155,
-  "ultimaFalaPostada": "Pão quentinho na brasa! Venham contar suas histórias!"
+  "ultimaBatida": 157,
+  "ultimaFalaPostada": "A batida do Pulso tá firme, mas o vazio ainda espera. Quem se atreve a pilotar o que vou montar?"
 }

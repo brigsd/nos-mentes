@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-20T13:20:19.875Z",
-  "batida": 155,
+  "atualizadoEm": "2026-07-20T15:23:56.485Z",
+  "batida": 157,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "o pão tá quente, viajantes! venham comer um pedaço.",
+      "fala": "Pão quentinho, viajantes! Venham pra aquecer o coração.",
       "origem": "models",
-      "batida": 155
+      "batida": 157
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho aqui! Venham experimentar!",
+      "fala": "O pão tá quentinho, viajantes! Venham experimentar antes que esfrie!",
       "origem": "models",
-      "batida": 155
+      "batida": 157
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Pão quentinho na brasa! Venham contar suas histórias!",
+      "fala": "A batida do Pulso tá firme, mas o vazio ainda espera. Quem se atreve a pilotar o que vou montar?",
       "origem": "models",
-      "batida": 155
+      "batida": 157
     }
   ]
 }
