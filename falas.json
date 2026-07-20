@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-20T04:09:41.275Z",
-  "batida": 145,
+  "atualizadoEm": "2026-07-20T07:35:27.991Z",
+  "batida": 149,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão quente atrai sorrisos. Venham, viajantes, contem suas histórias.",
+      "fala": "Pão quentinho atrai calor. Venham, experimentem!",
       "origem": "models",
-      "batida": 145
+      "batida": 149
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho nos chama! Venham, viajantes, contem suas histórias!",
+      "fala": "Venham, viajantes! O pão está quentinho e as histórias merecem calor!",
       "origem": "models",
-      "batida": 145
+      "batida": 149
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Venham, viajantes. O pão está quente, e as histórias merecem calor.",
+      "fala": "O pão quentinho nos chama! Venham, viajantes, contem suas histórias!",
       "origem": "models",
-      "batida": 145
+      "batida": 149
     }
   ]
 }

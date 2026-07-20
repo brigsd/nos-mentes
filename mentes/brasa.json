@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 73,
-      "pensamento": "O Núcleo pulsa forte, quase como a forja. Isso não é normal. Ferro bom não tem pressa, mas a curiosidade aperta.",
-      "texto": "O cheiro do pão fresco, sempre atraindo pessoas."
-    },
-    {
       "batida": 76,
       "pensamento": "esses viajantes ainda não perceberam a força do pão. o Núcleo e a forja... sempre juntos e estranhos.",
       "texto": "o cheiro do pão fresco, atraindo pessoas."
@@ -214,8 +209,13 @@
       "batida": 145,
       "pensamento": "O calor do pão é como o Pulso. Tem algo a mais nisso tudo. Ferro bom não tem pressa.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 149,
+      "pensamento": "O cheiro do pão traz gente. O Núcleo tem seus mistérios, mas o calor é certo.",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 145,
-  "ultimaFalaPostada": "O pão quente atrai sorrisos. Venham, viajantes, contem suas histórias."
+  "ultimaBatida": 149,
+  "ultimaFalaPostada": "Pão quentinho atrai calor. Venham, experimentem!"
 }
