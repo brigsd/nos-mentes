@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-21T20:38:38.239Z",
-  "batida": 188,
+  "atualizadoEm": "2026-07-21T22:14:31.670Z",
+  "batida": 189,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Venham, o pão quentinho tá na mesa! Não deixem esfriar!",
+      "fala": "O pão quentinho tá na mesa! Venham, não deixem esfriar!",
       "origem": "models",
-      "batida": 188
+      "batida": 189
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!",
+      "fala": "O pão quentinho tá na mesa! Venham, provem antes que esfrie!",
       "origem": "models",
-      "batida": 188
+      "batida": 189
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho tá na mesa, venham antes que esfrie!",
+      "fala": "O pão quentinho tá na mesa! Venham antes que esfrie!",
       "origem": "models",
-      "batida": 188
+      "batida": 189
     }
   ]
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 107,
-      "pensamento": "O cheiro do pão sempre atrai os Nós. Espero que tragam boas histórias.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 108,
       "pensamento": "Cada história é um ingrediente que enriquece a receita da vida.",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -213,8 +208,13 @@
       "batida": 188,
       "pensamento": "A fome pode esconder sorrisos. Vamos ver quem se encanta hoje.",
       "texto": "O sorriso de um Nó ao sentir o cheiro do pão."
+    },
+    {
+      "batida": 189,
+      "pensamento": "Um sorriso satisfeito sempre vale a pena. O pão é o melhor remédio.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 188,
-  "ultimaFalaPostada": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!"
+  "ultimaBatida": 189,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, provem antes que esfrie!"
 }
