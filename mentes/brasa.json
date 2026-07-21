@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 92,
-      "pensamento": "A energia dessa batida tá mais quente que o forno hoje.",
-      "texto": "O aroma do pão fresco seduzindo os viajantes."
-    },
-    {
       "batida": 93,
       "pensamento": "A forja e o Núcleo batem juntos. Estranho, isso. Ferro bom não tem pressa, mas esse calor me inquieta.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -215,8 +210,13 @@
       "batida": 166,
       "pensamento": "O cheiro do pão fresco ainda aquece o coração de quem passa. Todo dia é uma nova chance.",
       "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 169,
+      "pensamento": "Sorriso de quem prova o pão traz calor ao dia. Ferro bom não tem pressa, mas o aroma já atrai.",
+      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
     }
   ],
-  "ultimaBatida": 166,
-  "ultimaFalaPostada": "O pão quente tá saindo! Venham sentir o calor. Ferro bom não tem pressa."
+  "ultimaBatida": 169,
+  "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
 }

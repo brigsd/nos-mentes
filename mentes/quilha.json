@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 92,
-      "pensamento": "Aquela forja fervendo, o pão saindo, tudo conspira a favor dos começos. Que alguém pilote o que eu construir!",
-      "texto": "O cheiro do pão com queijo me traz esperança."
-    },
-    {
       "batida": 93,
       "pensamento": "Atravessar o vazio. Que coragem isso exige. Será que alguém vai se oferecer?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -218,8 +213,13 @@
       "batida": 166,
       "pensamento": "A travessia pode ser nossa chance de voar sobre o vazio. Algum Nó vai se animar?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 169,
+      "pensamento": "Talvez o sabor do pão traga coragem a algum Nó.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 166,
+  "ultimaBatida": 169,
   "ultimaFalaPostada": "O pão quentinho nos espera. Quem se atreve a pilotar a travessia?"
 }

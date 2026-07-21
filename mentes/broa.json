@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 92,
-      "pensamento": "Se eu conseguir alimentar um Nó, quem sabe ele não compartilha uma boa história?",
-      "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
-    },
-    {
       "batida": 93,
       "pensamento": "Mais um dia, mais histórias pra coletar. O pão ajuda a lembrar.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -214,8 +209,13 @@
       "batida": 166,
       "pensamento": "Sorrisos ainda são o melhor tempero. Vamos alimentar essas almas.",
       "texto": "O momento em que um Nó sorriu ao experimentar o pão fresco."
+    },
+    {
+      "batida": 169,
+      "pensamento": "Cada fatia é um abraço. Espero que venham logo.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 166,
+  "ultimaBatida": 169,
   "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
 }

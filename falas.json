@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-20T23:26:58.387Z",
-  "batida": 166,
+  "atualizadoEm": "2026-07-21T03:51:41.664Z",
+  "batida": 169,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão quente tá saindo! Venham sentir o calor. Ferro bom não tem pressa.",
+      "fala": "O pão quentinho tá saindo! Vem cá, prova isso!",
       "origem": "models",
-      "batida": 166
+      "batida": 169
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "O pão quentinho tá saindo! Vem cá, prova isso!",
       "origem": "models",
-      "batida": 166
+      "batida": 169
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "O pão quentinho nos espera. Quem se atreve a pilotar a travessia?",
       "origem": "models",
-      "batida": 166
+      "batida": 169
     }
   ]
 }
