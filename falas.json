@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-21T18:44:06.694Z",
-  "batida": 186,
+  "atualizadoEm": "2026-07-21T20:38:38.239Z",
+  "batida": 188,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!",
+      "fala": "Venham, o pão quentinho tá na mesa! Não deixem esfriar!",
       "origem": "models",
-      "batida": 186
+      "batida": 188
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!",
       "origem": "models",
-      "batida": 186
+      "batida": 188
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "O pão quentinho tá na mesa, venham antes que esfrie!",
       "origem": "models",
-      "batida": 186
+      "batida": 188
     }
   ]
 }

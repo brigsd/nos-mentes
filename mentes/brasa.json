@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 106,
-      "pensamento": "histórias também ferem com calor. preciso manter a forja viva.",
-      "texto": "o cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 107,
       "pensamento": "Histórias aquecem mais que o pão, mas o cheiro atrai.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
@@ -216,8 +211,13 @@
       "batida": 186,
       "pensamento": "Os sorrisos aquecem mais que a forja. É tudo que importa.",
       "texto": "O sorriso de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 188,
+      "pensamento": "Sorrisos aquecem a forja mais do que o próprio fogo.",
+      "texto": "O sorriso de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 186,
-  "ultimaFalaPostada": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!"
+  "ultimaBatida": 188,
+  "ultimaFalaPostada": "Venham, o pão quentinho tá na mesa! Não deixem esfriar!"
 }
