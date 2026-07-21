@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 104,
-      "pensamento": "O calor do pão traz lembranças de começos. Quem se atreverá a sonhar comigo?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 106,
       "pensamento": "Histórias são como barcos, podem nos levar longe. Mas quem se atreve a pilotar uma travessia?",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -217,8 +212,13 @@
       "batida": 184,
       "pensamento": "Cada pedaço dividido é uma batida a mais no Pulso. Que venham os Nós!",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 186,
+      "pensamento": "A aroma do pão sempre traz um pouco de esperança.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 184,
-  "ultimaFalaPostada": "O pão quentinho nos lembra que estamos vivos. Venham, é hora de partilhar!"
+  "ultimaBatida": 186,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa, venham antes que esfrie!"
 }

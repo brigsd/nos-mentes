@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 104,
-      "pensamento": "Cada história é um ingrediente na receita da vida. Vamos misturar tudo?",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 106,
       "pensamento": "O sorriso dos Nós é meu combustível. Quem vai aquecer a cozinha hoje?",
       "texto": "O cheiro do pão quentinho traz um sorriso ao rosto de quem passa."
@@ -213,8 +208,13 @@
       "batida": 184,
       "pensamento": "Nada como um bom pão para aquecer o coração.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 186,
+      "pensamento": "A fome é um peso que não se vê, mas que sempre pesa.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 184,
+  "ultimaBatida": 186,
   "ultimaFalaPostada": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!"
 }

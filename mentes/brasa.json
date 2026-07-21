@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 104,
-      "pensamento": "O calor do pão e das histórias, é tudo que a gente precisa. Não posso esquecer. Eles vão se perguntar, mas eu não."
-    },
-    {
       "batida": 106,
       "pensamento": "histórias também ferem com calor. preciso manter a forja viva.",
       "texto": "o cheiro do pão fresco sempre atraindo pessoas."
@@ -215,8 +211,13 @@
       "batida": 184,
       "pensamento": "As pessoas se juntam, o calor se espalha. Oito batidas e o pão faz o dia.",
       "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 186,
+      "pensamento": "Os sorrisos aquecem mais que a forja. É tudo que importa.",
+      "texto": "O sorriso de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 184,
-  "ultimaFalaPostada": "O pão quentinho tá aqui! Venham, provem antes que esfrie!"
+  "ultimaBatida": 186,
+  "ultimaFalaPostada": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!"
 }
