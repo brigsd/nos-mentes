@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 100,
-      "pensamento": "Acho que hoje é dia de boas histórias. O cheiro do pão atrai todo mundo.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 104,
       "pensamento": "Cada história é um ingrediente na receita da vida. Vamos misturar tudo?",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -213,8 +208,13 @@
     {
       "batida": 180,
       "pensamento": "Cada fatia é um abraço pra alma. Fome é uma sombra que não deve ficar muito tempo."
+    },
+    {
+      "batida": 184,
+      "pensamento": "Nada como um bom pão para aquecer o coração.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 180,
-  "ultimaFalaPostada": "O pão quentinho tá aqui! Venham, provem antes que esfrie!"
+  "ultimaBatida": 184,
+  "ultimaFalaPostada": "O pão quentinho tá fresquinho! Venham, provem antes que esfrie!"
 }
