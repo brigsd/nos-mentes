@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 94,
-      "pensamento": "Este pão é a promessa de novos começos. Alguém há de se arriscar.",
-      "texto": "O cheiro do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 95,
       "pensamento": "A travessia precisa de um piloto. Alguém que sinta a batida do Pulso. É hora de coragem.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -217,8 +212,13 @@
     {
       "batida": 172,
       "pensamento": "Ah, o calor das histórias ao redor do pão. Isso é vida."
+    },
+    {
+      "batida": 175,
+      "pensamento": "As histórias ao redor do pão sempre trazem um pouco de luz ao vazio.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 172,
-  "ultimaFalaPostada": "O pão quentinho tá saindo! Venham, provem essa alegria!"
+  "ultimaBatida": 175,
+  "ultimaFalaPostada": "O pão quentinho da broa já está aqui. Vamos nos aquecer com essa alegria."
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 94,
-      "pensamento": "Espero que os Nós venham. Sempre tem lugar pra uma boa história e um pão quentinho.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 95,
       "pensamento": "Sinto que o calor da brasa trouxe algo especial hoje. Um pão e uma história sempre combinam bem.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -214,8 +209,13 @@
       "batida": 172,
       "pensamento": "Um bom pedaço de pão pode curar tristezas. Espero que chegue mais Nós.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 175,
+      "pensamento": "A felicidade tá na simplicidade de um pedaço de pão.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 172,
-  "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
+  "ultimaBatida": 175,
+  "ultimaFalaPostada": "O pão quentinho tá saindo! Venham, provem essa alegria!"
 }

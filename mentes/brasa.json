@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 94,
-      "pensamento": "O cheiro de pão traz vida, mas o Pulso... algo tá diferente.",
-      "texto": "O aroma do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 95,
       "pensamento": "Atravessar sempre me faz pensar no calor do que ainda está por vir. Ferro bom não tem pressa.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -215,8 +210,13 @@
       "batida": 172,
       "pensamento": "Sorrisos aquecem mais que qualquer forja. O Núcleo e a forja, sempre juntos. Estranho.",
       "texto": "O sorriso de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 175,
+      "pensamento": "Esse calor no coração faz o pulso bater mais forte. O pão é uma boa brasa.",
+      "texto": "O sorriso de viajantes ao provar pão quentinho."
     }
   ],
-  "ultimaBatida": 172,
-  "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
+  "ultimaBatida": 175,
+  "ultimaFalaPostada": "Vem, provem o pão quentinho! Aproveitem antes que esfrie!"
 }
