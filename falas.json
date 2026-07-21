@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-21T03:51:41.664Z",
-  "batida": 169,
+  "atualizadoEm": "2026-07-21T06:44:21.375Z",
+  "batida": 172,
   "habitantes": [
     {
       "id": "brasa",
@@ -10,7 +10,7 @@
       "y": 13.5,
       "fala": "O pão quentinho tá saindo! Vem cá, prova isso!",
       "origem": "models",
-      "batida": 169
+      "batida": 172
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "O pão quentinho tá saindo! Vem cá, prova isso!",
       "origem": "models",
-      "batida": 169
+      "batida": 172
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho nos espera. Quem se atreve a pilotar a travessia?",
+      "fala": "O pão quentinho tá saindo! Venham, provem essa alegria!",
       "origem": "models",
-      "batida": 169
+      "batida": 172
     }
   ]
 }

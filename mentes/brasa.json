@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 93,
-      "pensamento": "A forja e o Núcleo batem juntos. Estranho, isso. Ferro bom não tem pressa, mas esse calor me inquieta.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 94,
       "pensamento": "O cheiro de pão traz vida, mas o Pulso... algo tá diferente.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
@@ -215,8 +210,13 @@
       "batida": 169,
       "pensamento": "Sorriso de quem prova o pão traz calor ao dia. Ferro bom não tem pressa, mas o aroma já atrai.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
+    },
+    {
+      "batida": 172,
+      "pensamento": "Sorrisos aquecem mais que qualquer forja. O Núcleo e a forja, sempre juntos. Estranho.",
+      "texto": "O sorriso de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 169,
+  "ultimaBatida": 172,
   "ultimaFalaPostada": "O pão quentinho tá saindo! Vem cá, prova isso!"
 }
