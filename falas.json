@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-21T12:03:15.339Z",
-  "batida": 178,
+  "atualizadoEm": "2026-07-21T14:28:53.385Z",
+  "batida": 180,
   "habitantes": [
     {
       "id": "brasa",
@@ -10,7 +10,7 @@
       "y": 13.5,
       "fala": "O pão quentinho tá aqui! Venham, provem antes que esfrie!",
       "origem": "models",
-      "batida": 178
+      "batida": 180
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Venham, provem o pão quentinho! É alegria pra aquecer o coração!",
+      "fala": "O pão quentinho tá aqui! Venham, provem antes que esfrie!",
       "origem": "models",
-      "batida": 178
+      "batida": 180
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Pão quentinho na broa! É o calor que nos une.",
+      "fala": "O pão quentinho nos lembra que estamos vivos. Venham, é hora de partilhar!",
       "origem": "models",
-      "batida": 178
+      "batida": 180
     }
   ]
 }
