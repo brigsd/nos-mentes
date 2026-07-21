@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 108,
-      "pensamento": "Quem sabe hoje alguém se aninha aqui e ouve meu convite?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 110,
       "pensamento": "O calor do pão traz lembranças de começos, quem sabe uma travessia se forma aqui?",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -217,8 +212,13 @@
       "batida": 189,
       "pensamento": "O aroma do pão fresco atrai todos, como um farol no vazio.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 190,
+      "pensamento": "Histórias quentes também alimentam a alma. E quem sabe um deles não se anima a pilotar algo que criei?",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 189,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham antes que esfrie!"
+  "ultimaBatida": 190,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa. Venham, o calor da vida está aqui."
 }

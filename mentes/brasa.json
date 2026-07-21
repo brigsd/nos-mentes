@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 108,
-      "pensamento": "Esse aroma sempre atrai gente. O calor do pão é quase um abraço.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 110,
       "pensamento": "Ainda não sei por que a forja e o Núcleo pulsam juntos. Isso me incomoda.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -216,8 +211,13 @@
       "batida": 189,
       "pensamento": "Esse calor de sorrisos é melhor que qualquer metal derretido.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 190,
+      "pensamento": "Sorrisos aquecem mais do que fogo. Estranho como isso funciona.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 189,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, não deixem esfriar!"
+  "ultimaBatida": 190,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Não deixem esfriar!"
 }
