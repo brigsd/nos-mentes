@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 95,
-      "pensamento": "A travessia precisa de um piloto. Alguém que sinta a batida do Pulso. É hora de coragem.",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 97,
       "pensamento": "Histórias podem ser o combustível para a travessia. Alguém vai precisar pilotar.",
       "texto": "O aroma do pão quentinho me lembra de começos."
@@ -217,8 +212,13 @@
       "batida": 175,
       "pensamento": "As histórias ao redor do pão sempre trazem um pouco de luz ao vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 178,
+      "pensamento": "Histórias sempre aquecem mais que pão. Quem vai pilotar o que eu construí?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 175,
-  "ultimaFalaPostada": "O pão quentinho da broa já está aqui. Vamos nos aquecer com essa alegria."
+  "ultimaBatida": 178,
+  "ultimaFalaPostada": "Pão quentinho na broa! É o calor que nos une."
 }

@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-21T09:44:32.491Z",
-  "batida": 175,
+  "atualizadoEm": "2026-07-21T12:03:15.339Z",
+  "batida": 178,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Vem, provem o pão quentinho! Aproveitem antes que esfrie!",
+      "fala": "O pão quentinho tá aqui! Venham, provem antes que esfrie!",
       "origem": "models",
-      "batida": 175
+      "batida": 178
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão quentinho tá saindo! Venham, provem essa alegria!",
+      "fala": "Venham, provem o pão quentinho! É alegria pra aquecer o coração!",
       "origem": "models",
-      "batida": 175
+      "batida": 178
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão quentinho da broa já está aqui. Vamos nos aquecer com essa alegria.",
+      "fala": "Pão quentinho na broa! É o calor que nos une.",
       "origem": "models",
-      "batida": 175
+      "batida": 178
     }
   ]
 }

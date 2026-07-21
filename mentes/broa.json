@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 95,
-      "pensamento": "Sinto que o calor da brasa trouxe algo especial hoje. Um pão e uma história sempre combinam bem.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 97,
       "pensamento": "Cada história traz um tempero ao nosso pão. Espero que venham.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -214,8 +209,13 @@
       "batida": 175,
       "pensamento": "A felicidade tá na simplicidade de um pedaço de pão.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 178,
+      "pensamento": "Cada mordida é uma história que se cria. Vamos alimentar essas almas viajantes.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 175,
-  "ultimaFalaPostada": "O pão quentinho tá saindo! Venham, provem essa alegria!"
+  "ultimaBatida": 178,
+  "ultimaFalaPostada": "Venham, provem o pão quentinho! É alegria pra aquecer o coração!"
 }

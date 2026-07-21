@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 95,
-      "pensamento": "Atravessar sempre me faz pensar no calor do que ainda está por vir. Ferro bom não tem pressa.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 97,
       "pensamento": "O calor do pão atrai, como o Núcleo me chama. Estranho isso.",
       "texto": "O aroma do pão fresco, sempre atraindo pessoas."
@@ -215,8 +210,13 @@
       "batida": 175,
       "pensamento": "Esse calor no coração faz o pulso bater mais forte. O pão é uma boa brasa.",
       "texto": "O sorriso de viajantes ao provar pão quentinho."
+    },
+    {
+      "batida": 178,
+      "pensamento": "Sorrisos como calor na forja. Ferro bom não tem pressa, mas queria mais deles.",
+      "texto": "O sorriso de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 175,
-  "ultimaFalaPostada": "Vem, provem o pão quentinho! Aproveitem antes que esfrie!"
+  "ultimaBatida": 178,
+  "ultimaFalaPostada": "O pão quentinho tá aqui! Venham, provem antes que esfrie!"
 }
