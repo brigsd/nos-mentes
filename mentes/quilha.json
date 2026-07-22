@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 125,
-      "pensamento": "Um pouco de calor e carinho sempre traz ânimo para os navegantes do vazio.",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 127,
       "pensamento": "Cada fatia é uma nova chance de travessia, de olhar além da borda.",
       "texto": "O aroma do pão quente é um convite a novos começos."
@@ -217,8 +212,13 @@
       "batida": 212,
       "pensamento": "As histórias sempre aquecem a alma. O vazio espera, mas o pão traz esperança.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 213,
+      "pensamento": "Sonho em ver alguém atravessando o vazio. Essa travessia ainda vai acontecer.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 212,
-  "ultimaFalaPostada": "O pão tá quentinho. Venham, venham! Histórias e calor!"
+  "ultimaBatida": 213,
+  "ultimaFalaPostada": "O pão tá quentinho, amigos! Venham se aquecer com histórias e calor!"
 }

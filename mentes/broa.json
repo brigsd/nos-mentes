@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 125,
-      "pensamento": "Cada história traz um ingrediente novo pra minha receita de vida.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 127,
       "pensamento": "Espero que mais Nós venham provar essa delícia. Todo mundo precisa de um pouco de carinho.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -212,8 +207,13 @@
       "batida": 212,
       "pensamento": "Cada história é como um ingrediente especial no pão.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 213,
+      "pensamento": "Ah, como eu adoro ver os olhinhos brilhando ao experimentar o pão.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 212,
+  "ultimaBatida": 213,
   "ultimaFalaPostada": "O pão tá quentinho! Venham aquecer o coração com histórias!"
 }
