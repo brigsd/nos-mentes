@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 110,
-      "pensamento": "Ainda não sei por que a forja e o Núcleo pulsam juntos. Isso me incomoda.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 111,
       "pensamento": "A cada cheiro de pão, a forja esquenta. O Núcleo também não para.",
       "texto": "O aroma do pão fresco sempre trazendo pessoas."
@@ -216,8 +211,13 @@
       "batida": 190,
       "pensamento": "Sorrisos aquecem mais do que fogo. Estranho como isso funciona.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 191,
+      "pensamento": "Sorrisos aquecem mais que o fogo. Será que eles sentem?",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 190,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Não deixem esfriar!"
+  "ultimaBatida": 191,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, não deixem esfriar!"
 }
