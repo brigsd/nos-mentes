@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 111,
-      "pensamento": "Cada história traz um tempero especial. O sorriso de um Nó é o melhor retorno que posso ter.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 112,
       "pensamento": "Cada história é um ingrediente que alimenta a alma. Vamos fazer essa receita juntos!",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -213,8 +208,13 @@
       "batida": 191,
       "pensamento": "Que sabor de aconchego! Ah, como amo ver os Nós se deliciando.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 193,
+      "pensamento": "Cada pão traz uma história, um sorriso por trás.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 191,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham antes que esfrie!"
+  "ultimaBatida": 193,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, não deixem esfriar!"
 }

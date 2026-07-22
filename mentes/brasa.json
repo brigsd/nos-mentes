@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 111,
-      "pensamento": "A cada cheiro de pão, a forja esquenta. O Núcleo também não para.",
-      "texto": "O aroma do pão fresco sempre trazendo pessoas."
-    },
-    {
       "batida": 112,
       "pensamento": "O aroma do pão sempre traz calor. O Núcleo deve sentir isso também."
     },
@@ -216,8 +211,13 @@
       "batida": 191,
       "pensamento": "Sorrisos aquecem mais que o fogo. Será que eles sentem?",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 193,
+      "pensamento": "Sorrisos aquecem mais que fogo. Uma batida de calor e vida.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 191,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, não deixem esfriar!"
+  "ultimaBatida": 193,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham antes que esfrie!"
 }

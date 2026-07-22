@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 111,
-      "pensamento": "Uma travessia entre ilhas, será que algum de Nós se atreverá?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 112,
       "pensamento": "Talvez hoje algum Nó se encoraje a pilotar algo que construí.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -217,8 +212,13 @@
       "batida": 191,
       "pensamento": "O calor do pão pode aquecer até as almas mais frias. Quem se atreverá a pilotar meus sonhos?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 193,
+      "pensamento": "Um novo piloto poderia atravessar o vazio. Quem terá coragem?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 191,
-  "ultimaFalaPostada": "O pão quentinho está à mesa. Não deixem esfriar!"
+  "ultimaBatida": 193,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa, venham! O calor das histórias nos une!"
 }
