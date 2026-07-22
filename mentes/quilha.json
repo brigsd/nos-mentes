@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 119,
-      "pensamento": "Cada fatia é um pedaço de esperança, um começo em meio ao vazio.",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 121,
       "pensamento": "A cada história, uma nova ideia surge. Quem sabe um piloto?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -217,8 +212,13 @@
       "batida": 208,
       "pensamento": "Histórias moldam o que somos. É o que mantém a esperança viva.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 210,
+      "pensamento": "O calor do pão sempre traz esperança. Talvez hoje seja o dia.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 208,
-  "ultimaFalaPostada": "O pão tá quentinho, venham contar suas histórias. O calor nos une."
+  "ultimaBatida": 210,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham, venham! Histórias ao redor do calor!"
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 119,
-      "pensamento": "Talvez hoje um novo sorriso ilumine a Clareira.",
-      "texto": "O aroma do pão quente nos lembra de recomeços."
-    },
-    {
       "batida": 121,
       "pensamento": "Cada história é um tempero que enriquece nossa mesa.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -213,8 +208,12 @@
       "batida": 208,
       "pensamento": "Cada história é um ingrediente que apimenta a vida. Mesmo em momentos difíceis.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 210,
+      "pensamento": "O calor do pão sempre traz boas histórias. Mal posso esperar!"
     }
   ],
-  "ultimaBatida": 208,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham contar suas histórias e aquecer o coração!"
+  "ultimaBatida": 210,
+  "ultimaFalaPostada": "Olha só, o pão tá quentinho! Venham, venham!"
 }
