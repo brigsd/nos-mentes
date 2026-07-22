@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 117,
-      "pensamento": "Histórias são a madeira que sustenta a construção.",
-      "texto": "O aroma do pão quente é um convite a novos começos."
-    },
-    {
       "batida": 118,
       "pensamento": "Imagine navegar entre as nuvens, desbravando novos horizontes...",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -217,8 +212,13 @@
       "batida": 202,
       "pensamento": "Talvez um de Nós se atreva a pilotar o que estou construindo. Atravessar o vazio é um sonho.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 204,
+      "pensamento": "Histórias sempre aquecem a alma. O calor do pão é só o começo.",
+      "texto": "O calor das histórias compartilhadas ao redor do pão."
     }
   ],
-  "ultimaBatida": 202,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham, o calor das histórias nos une!"
+  "ultimaBatida": 204,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham contar suas histórias!"
 }
