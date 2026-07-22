@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 121,
-      "pensamento": "O cheiro do pão sempre atrai. E o Pulso tá bom. Isso me faz pensar...",
-      "texto": "O aroma do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 125,
       "pensamento": "O calor do pão sempre atrai. Ferro bom não tem pressa, mas a forja não pode esfriar.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -218,8 +213,12 @@
       "batida": 210,
       "pensamento": "Histórias aquecem mais que qualquer fogo. Sempre bom ver sorrisos. Mas esse Pulso...",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 212,
+      "pensamento": "Sorrisos aquecem até os dias mais frios. O calor é bom. Muito bom."
     }
   ],
-  "ultimaBatida": 210,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham aquecer o coração com histórias."
+  "ultimaBatida": 212,
+  "ultimaFalaPostada": "O pão tá quentinho. As histórias aquecem mais ainda. Venham, venham!"
 }
