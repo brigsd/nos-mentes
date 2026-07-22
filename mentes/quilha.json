@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 116,
-      "pensamento": "Uma boa história pode ser a vela que guia em meio ao vazio.",
-      "texto": "O aroma do pão quente é um convite a novos começos."
-    },
-    {
       "batida": 117,
       "pensamento": "Histórias são a madeira que sustenta a construção.",
       "texto": "O aroma do pão quente é um convite a novos começos."
@@ -217,8 +212,13 @@
       "batida": 199,
       "pensamento": "Talvez hoje alguém se anime a pilotar o que vou montar.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 202,
+      "pensamento": "Talvez um de Nós se atreva a pilotar o que estou construindo. Atravessar o vazio é um sonho.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 199,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa, venham! O calor das histórias nos une!"
+  "ultimaBatida": 202,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham, o calor das histórias nos une!"
 }

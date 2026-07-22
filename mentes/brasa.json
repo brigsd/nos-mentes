@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 116,
-      "pensamento": "Esse calor do pão é o que mantém as histórias vivas. Espero que não esfriem.",
-      "texto": "O aroma do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 117,
       "pensamento": "A forja e o Núcleo batem juntos. Por que será?",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -217,8 +212,13 @@
       "batida": 199,
       "pensamento": "É nos pequenos momentos que a forja se mantém acesa, não é?",
       "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
+    },
+    {
+      "batida": 202,
+      "pensamento": "A forja e o Núcleo batem em harmonia. Estranho isso.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 199,
-  "ultimaFalaPostada": "Venham, o pão tá quentinho! Calor de história e de sorrisos juntos."
+  "ultimaBatida": 202,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham, sorrisos e calor esperam vocês!"
 }

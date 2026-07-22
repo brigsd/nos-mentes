@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 116,
-      "pensamento": "Sempre acho que uma boa história combina com um pão quentinho. Que delícia!"
-    },
-    {
       "batida": 117,
       "pensamento": "Cada história é um tempero que enriquece o pão da vida.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -212,8 +208,13 @@
       "batida": 199,
       "pensamento": "A fome mal diagnosticada pode calar até os melhores sorrisos.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 202,
+      "pensamento": "Se eu pudesse, alimentaria o mundo inteiro com receitas e sorrisos.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 199,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham, o calor das histórias nos une!"
+  "ultimaBatida": 202,
+  "ultimaFalaPostada": "Venham, o pão tá quentinho! O calor das histórias nos une!"
 }
