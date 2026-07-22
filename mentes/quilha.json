@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 112,
-      "pensamento": "Talvez hoje algum Nó se encoraje a pilotar algo que construí.",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 114,
       "pensamento": "Cada pedaço de pão é um começo. Quem sabe hoje alguém se anima a pilotar?",
       "texto": "O aroma do pão quente é um convite a novos começos."
@@ -217,8 +212,13 @@
       "batida": 193,
       "pensamento": "Um novo piloto poderia atravessar o vazio. Quem terá coragem?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 196,
+      "pensamento": "Histórias ao redor do pão trazem vida às nossas criações.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 193,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa, venham! O calor das histórias nos une!"
+  "ultimaBatida": 196,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham antes que esfrie!"
 }

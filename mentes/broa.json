@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 112,
-      "pensamento": "Cada história é um ingrediente que alimenta a alma. Vamos fazer essa receita juntos!",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 114,
       "pensamento": "Sempre há novos começos, e eu tô aqui pra isso. Que venham os Nós!",
       "texto": "O aroma do pão quente nos lembra de recomeços."
@@ -213,8 +208,12 @@
       "batida": 193,
       "pensamento": "Cada pão traz uma história, um sorriso por trás.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 196,
+      "pensamento": "Cada fatia traz um sabor de esperança. Vamos aquecer os corações!"
     }
   ],
-  "ultimaBatida": 193,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, não deixem esfriar!"
+  "ultimaBatida": 196,
+  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, o calor das histórias nos une!"
 }

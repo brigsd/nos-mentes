@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 112,
-      "pensamento": "O aroma do pão sempre traz calor. O Núcleo deve sentir isso também."
-    },
-    {
       "batida": 114,
       "pensamento": "O cheiro atrai, mas será que as histórias aquecem?",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
@@ -216,8 +212,13 @@
       "batida": 193,
       "pensamento": "Sorrisos aquecem mais que fogo. Uma batida de calor e vida.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 196,
+      "pensamento": "Espero que as histórias voltem a aquecer o dia. Ferro bom não tem pressa.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 193,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham antes que esfrie!"
+  "ultimaBatida": 196,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham antes que esfrie!"
 }
