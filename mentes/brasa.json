@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 114,
-      "pensamento": "O cheiro atrai, mas será que as histórias aquecem?",
-      "texto": "O aroma do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 116,
       "pensamento": "Esse calor do pão é o que mantém as histórias vivas. Espero que não esfriem.",
       "texto": "O aroma do pão fresco sempre atraindo pessoas."
@@ -217,8 +212,13 @@
       "batida": 196,
       "pensamento": "Espero que as histórias voltem a aquecer o dia. Ferro bom não tem pressa.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 199,
+      "pensamento": "É nos pequenos momentos que a forja se mantém acesa, não é?",
+      "texto": "Sorrisos aquecidos de viajantes provando pão quentinho."
     }
   ],
-  "ultimaBatida": 196,
-  "ultimaFalaPostada": "O pão tá quentinho! Venham antes que esfrie!"
+  "ultimaBatida": 199,
+  "ultimaFalaPostada": "Venham, o pão tá quentinho! Calor de história e de sorrisos juntos."
 }

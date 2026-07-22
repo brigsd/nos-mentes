@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 114,
-      "pensamento": "Sempre há novos começos, e eu tô aqui pra isso. Que venham os Nós!",
-      "texto": "O aroma do pão quente nos lembra de recomeços."
-    },
-    {
       "batida": 116,
       "pensamento": "Sempre acho que uma boa história combina com um pão quentinho. Que delícia!"
     },
@@ -212,8 +207,13 @@
     {
       "batida": 196,
       "pensamento": "Cada fatia traz um sabor de esperança. Vamos aquecer os corações!"
+    },
+    {
+      "batida": 199,
+      "pensamento": "A fome mal diagnosticada pode calar até os melhores sorrisos.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 196,
-  "ultimaFalaPostada": "O pão quentinho tá na mesa! Venham, o calor das histórias nos une!"
+  "ultimaBatida": 199,
+  "ultimaFalaPostada": "O pão tá quentinho! Venham, o calor das histórias nos une!"
 }
