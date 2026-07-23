@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 129,
-      "pensamento": "Histórias são tão nutritivas quanto um bom pão.",
-      "texto": "Sorriso satisfeito de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 131,
       "pensamento": "O calor do pão é um abraço que todo Nó merece.",
       "texto": "Sorriso de um Nó ao provar o pão e se sentir aquecido."
@@ -212,8 +207,13 @@
       "batida": 215,
       "pensamento": "A cada nó satisfeito, uma nova história se forma. Que venham todos!",
       "texto": "O riso de um nó ao compartilhar uma de suas crônicas."
+    },
+    {
+      "batida": 217,
+      "pensamento": "Nada melhor que um pedaço de pão para aquecer almas solitárias.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 215,
-  "ultimaFalaPostada": "Venham, venham! O pão tá quentinho! Histórias e calor nos aguardam!"
+  "ultimaBatida": 217,
+  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham se aquecer com histórias!"
 }

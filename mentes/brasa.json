@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 129,
-      "pensamento": "Ainda bem que o cheiro do pão atrai as pessoas. Talvez um bom calor saia disso.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 131,
       "pensamento": "Aquecido pela fofura do pão, o calor da Forja ressoa. Mas por que o Núcleo também pulsa?",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -215,8 +210,13 @@
     {
       "batida": 215,
       "pensamento": "Histórias e calor sempre trazem sorrisos. Ferro bom não tem pressa."
+    },
+    {
+      "batida": 217,
+      "pensamento": "Sorrisos aquecem mais que a forja. Eles deviam saber disso.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 215,
-  "ultimaFalaPostada": "Pão quentinho na cozinha. Venham se aquecer com histórias!"
+  "ultimaBatida": 217,
+  "ultimaFalaPostada": "Pão quentinho na cocina! Venham se aquecer!"
 }
