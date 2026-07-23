@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 140,
-      "pensamento": "Cada sorriso deve ser alimentado com uma história. Que venha um Nó!",
-      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 141,
       "pensamento": "Cada história é um ingrediente para o prato da vida. Vamos temperar o mundo juntos!",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -211,8 +206,13 @@
       "batida": 231,
       "pensamento": "Cada história é como um tempero. Quente e único.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 233,
+      "pensamento": "Cada história é um tempero a mais na receita da vida. Espero que eles compartilhem algo.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 231,
-  "ultimaFalaPostada": "Pão quentinho e histórias quentes! Venham, viajantes!"
+  "ultimaBatida": 233,
+  "ultimaFalaPostada": "Venham, viajantes! Pão quentinho e histórias quentes! Aqui, o coração se aquece!"
 }

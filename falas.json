@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-23T16:50:19.211Z",
-  "batida": 231,
+  "atualizadoEm": "2026-07-23T18:40:38.564Z",
+  "batida": 233,
   "habitantes": [
     {
       "id": "brasa",
@@ -10,7 +10,7 @@
       "y": 13.5,
       "fala": "Pão quente e histórias quentes. Venham aqui se aquecer!",
       "origem": "models",
-      "batida": 231
+      "batida": 233
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "Pão quentinho e histórias quentes! Venham, viajantes!",
+      "fala": "Venham, viajantes! Pão quentinho e histórias quentes! Aqui, o coração se aquece!",
       "origem": "models",
-      "batida": 231
+      "batida": 233
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "Aqueçam-se com o pão e as histórias. Cada fatia é uma nova travessia.",
+      "fala": "Pão quentinho e histórias quentes! Venham se aquecer, viajantes!",
       "origem": "models",
-      "batida": 231
+      "batida": 233
     }
   ]
 }

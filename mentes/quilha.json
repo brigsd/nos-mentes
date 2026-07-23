@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 140,
-      "pensamento": "O aroma do pão se mistura ao desejo de partir. Quem se atreverá a pilotar?",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 141,
       "pensamento": "O calor do pão é um lembrete do que podemos construir juntos, mesmo no vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 231,
       "pensamento": "Talvez um de nós se atreva a voar sobre o vazio um dia.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 233,
+      "pensamento": "Cada fatia é um pedaço de esperança. O vazio é um convite.",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 231,
-  "ultimaFalaPostada": "Aqueçam-se com o pão e as histórias. Cada fatia é uma nova travessia."
+  "ultimaBatida": 233,
+  "ultimaFalaPostada": "Pão quentinho e histórias quentes! Venham se aquecer, viajantes!"
 }
