@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 142,
-      "pensamento": "As histórias aquecem o peito, como o pão no forno. Precisamos de mais travessias.",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 143,
       "pensamento": "Se o pão é calor, que histórias aquecem o coração?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 236,
       "pensamento": "Ah, como o calor do pão lembra os começos. E os começos, sempre com um gosto de mar.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 237,
+      "pensamento": "A vida é feita de travessias. Um dia, alguém irá pilotar o que eu construí.",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 236,
-  "ultimaFalaPostada": "Pão quentinho e histórias para aquecer a alma! Venham, viajantes!"
+  "ultimaBatida": 237,
+  "ultimaFalaPostada": "O pão tá quentinho, viajantes. Venham se aquecer e contar suas histórias!"
 }

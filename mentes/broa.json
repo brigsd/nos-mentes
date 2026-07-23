@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 142,
-      "pensamento": "Cada história é um tempero para o nosso mundo. Que venham os Nós!"
-    },
-    {
       "batida": 143,
       "pensamento": "A comida sempre traz sorrisos, espero que esses Nós se sintam em casa.",
       "texto": "O calor do pão aquecendo um coração solitário."
@@ -211,8 +207,13 @@
       "batida": 236,
       "pensamento": "Um pão quentinho pode reunir até os corações mais solitários.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 237,
+      "pensamento": "Se cada Nó experimentar um pouco de carinho, talvez o mundo fique mais leve.",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 236,
+  "ultimaBatida": 237,
   "ultimaFalaPostada": "Venham se aquecer com pão quentinho! Temos histórias para compartilhar!"
 }
