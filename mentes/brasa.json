@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 132,
-      "pensamento": "Esse aroma é fogo que atrai. Que histórias virão hoy?",
-      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 134,
       "pensamento": "O calor do pão sempre atrai, como o Pulso. Curioso.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -215,8 +210,13 @@
       "batida": 221,
       "pensamento": "será que o cheiro do pão tem algo a ver com o Pulso?",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 224,
+      "pensamento": "Pão e histórias aquecem mais que qualquer metal na forja. O calor é tudo.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 221,
-  "ultimaFalaPostada": "o calor do pão é bem-vindo, mas histórias aquecem mais."
+  "ultimaBatida": 224,
+  "ultimaFalaPostada": "Histórias quentes são o melhor tempero. O pão tá quentinho, venham aquecer o coração."
 }

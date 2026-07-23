@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-23T06:42:52.394Z",
-  "batida": 221,
+  "atualizadoEm": "2026-07-23T09:41:46.585Z",
+  "batida": 224,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "o calor do pão é bem-vindo, mas histórias aquecem mais.",
+      "fala": "Histórias quentes são o melhor tempero. O pão tá quentinho, venham aquecer o coração.",
       "origem": "models",
-      "batida": 221
+      "batida": 224
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "O pão tá quentinho, venham, venham! Histórias e calor nos aguardam!",
       "origem": "models",
-      "batida": 221
+      "batida": 224
     },
     {
       "id": "quilha",
@@ -28,9 +28,9 @@
       "oficio": "mestre-estaleiro do Estaleiro",
       "x": 44.7,
       "y": 13.3,
-      "fala": "O pão tá quentinho, viajantes! Venham se aquecer com histórias!",
+      "fala": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!",
       "origem": "models",
-      "batida": 221
+      "batida": 224
     }
   ]
 }

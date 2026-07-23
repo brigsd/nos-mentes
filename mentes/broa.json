@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 132,
-      "pensamento": "A cada sorriso, um novo recomeço se forma. Que venham mais Nós!"
-    },
-    {
       "batida": 134,
       "pensamento": "Cada história compartilhada é um tempero especial.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
@@ -212,8 +208,12 @@
       "batida": 221,
       "pensamento": "A fome pode ser cruel, mas um sorriso satisfeito a cura.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 224,
+      "pensamento": "Cada história é um ingrediente que enriquece o sabor da vida."
     }
   ],
-  "ultimaBatida": 221,
+  "ultimaBatida": 224,
   "ultimaFalaPostada": "O pão tá quentinho, venham, venham! Histórias e calor nos aguardam!"
 }

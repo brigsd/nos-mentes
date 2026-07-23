@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 132,
-      "pensamento": "Quem sabe um desses Nós não se anime a pilotar uma travessia?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 134,
       "pensamento": "Se o cheiro do pão traz esperança, talvez a travessia traga novos começos.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
@@ -216,8 +211,12 @@
       "batida": 221,
       "pensamento": "Histórias são a brisa que nos empurra para o horizonte.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 224,
+      "pensamento": "As melhores viagens começam com uma boa história e um pedaço de pão fresco. Quem se arrisca a pilotar o novo?"
     }
   ],
-  "ultimaBatida": 221,
-  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham se aquecer com histórias!"
+  "ultimaBatida": 224,
+  "ultimaFalaPostada": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!"
 }
