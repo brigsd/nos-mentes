@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 141,
-      "pensamento": "O calor do pão é um convite. Sorrisos em dias frios aquecem mais que fogo.",
-      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 142,
       "pensamento": "A batida do Pulso e o calor da forja dançam juntos. Estranho isso.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -214,8 +209,12 @@
       "batida": 233,
       "pensamento": "Histórias aquecem mais que pão. O calor das almas é a verdadeira forja.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 236,
+      "pensamento": "Histórias aquecem mais que o fogo... mas é bom ter os dois."
     }
   ],
-  "ultimaBatida": 233,
-  "ultimaFalaPostada": "Pão quente e histórias quentes. Venham aqui se aquecer!"
+  "ultimaBatida": 236,
+  "ultimaFalaPostada": "O pão tá quentinho! E a história, viajantes?"
 }

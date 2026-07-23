@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 141,
-      "pensamento": "O calor do pão é um lembrete do que podemos construir juntos, mesmo no vazio.",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 142,
       "pensamento": "As histórias aquecem o peito, como o pão no forno. Precisamos de mais travessias.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
@@ -215,8 +210,13 @@
       "batida": 233,
       "pensamento": "Cada fatia é um pedaço de esperança. O vazio é um convite.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 236,
+      "pensamento": "Ah, como o calor do pão lembra os começos. E os começos, sempre com um gosto de mar.",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 233,
-  "ultimaFalaPostada": "Pão quentinho e histórias quentes! Venham se aquecer, viajantes!"
+  "ultimaBatida": 236,
+  "ultimaFalaPostada": "Pão quentinho e histórias para aquecer a alma! Venham, viajantes!"
 }

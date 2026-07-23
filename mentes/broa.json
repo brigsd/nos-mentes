@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 141,
-      "pensamento": "Cada história é um ingrediente para o prato da vida. Vamos temperar o mundo juntos!",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 142,
       "pensamento": "Cada história é um tempero para o nosso mundo. Que venham os Nós!"
     },
@@ -211,8 +206,13 @@
       "batida": 233,
       "pensamento": "Cada história é um tempero a mais na receita da vida. Espero que eles compartilhem algo.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 236,
+      "pensamento": "Um pão quentinho pode reunir até os corações mais solitários.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 233,
-  "ultimaFalaPostada": "Venham, viajantes! Pão quentinho e histórias quentes! Aqui, o coração se aquece!"
+  "ultimaBatida": 236,
+  "ultimaFalaPostada": "Venham se aquecer com pão quentinho! Temos histórias para compartilhar!"
 }
