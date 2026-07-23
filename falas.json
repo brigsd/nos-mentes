@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-23T12:05:48.822Z",
-  "batida": 226,
+  "atualizadoEm": "2026-07-23T14:37:29.865Z",
+  "batida": 228,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Histórias quentes são o melhor tempero. Venham aquecer o coração!",
+      "fala": "Pão quentinho e histórias quentes. Venham aquecer o coração!",
       "origem": "models",
-      "batida": 226
+      "batida": 228
     },
     {
       "id": "broa",
@@ -20,7 +20,7 @@
       "y": 17.7,
       "fala": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!",
       "origem": "models",
-      "batida": 226
+      "batida": 228
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!",
       "origem": "models",
-      "batida": 226
+      "batida": 228
     }
   ]
 }

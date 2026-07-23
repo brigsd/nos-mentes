@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 136,
-      "pensamento": "O aroma do pão é como um registro de esperança. E as histórias...",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 138,
       "pensamento": "Histórias aquecem mais que o próprio pão. Precisamos delas para atravessar o vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 226,
       "pensamento": "Histórias quentes aquecem mais que o pão. Quem vai pilotar o que estou montando?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 228,
+      "pensamento": "A cada história, um pedaço da travessia se forma. Talvez hoje, um de vocês queira pilotar uma nova aventura.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 226,
+  "ultimaBatida": 228,
   "ultimaFalaPostada": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!"
 }

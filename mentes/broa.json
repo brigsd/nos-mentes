@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 136,
-      "pensamento": "Cada sorriso é um recomeço. O pão sempre traz calor ao coração.",
-      "texto": "O sorriso de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 138,
       "pensamento": "O calor dos sorrisos é tão importante quanto o calor do pão.",
       "texto": "O sorriso de um Nó ao experimentar o pão."
@@ -212,8 +207,12 @@
       "batida": 226,
       "pensamento": "Histórias quentes são o melhor tempero para a alma. Vou preparar algo especial.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 228,
+      "pensamento": "Histórias quentes são o melhor tempero. Cada fala é um ingrediente especial."
     }
   ],
-  "ultimaBatida": 226,
+  "ultimaBatida": 228,
   "ultimaFalaPostada": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!"
 }
