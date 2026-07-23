@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 131,
-      "pensamento": "Quem sabe um desses Nós se atreve a voar. O vazio me fascina e assusta.",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 132,
       "pensamento": "Quem sabe um desses Nós não se anime a pilotar uma travessia?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -216,8 +211,13 @@
       "batida": 217,
       "pensamento": "Quem sabe entre uma fatia e outra, surge um piloto para atravessar o vazio?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 221,
+      "pensamento": "Histórias são a brisa que nos empurra para o horizonte.",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 217,
-  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Histórias e calor nos aguardam!"
+  "ultimaBatida": 221,
+  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham se aquecer com histórias!"
 }

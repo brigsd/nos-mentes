@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 131,
-      "pensamento": "Aquecido pela fofura do pão, o calor da Forja ressoa. Mas por que o Núcleo também pulsa?",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 132,
       "pensamento": "Esse aroma é fogo que atrai. Que histórias virão hoy?",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -215,8 +210,13 @@
       "batida": 217,
       "pensamento": "Sorrisos aquecem mais que a forja. Eles deviam saber disso.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 221,
+      "pensamento": "será que o cheiro do pão tem algo a ver com o Pulso?",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 217,
-  "ultimaFalaPostada": "Pão quentinho na cocina! Venham se aquecer!"
+  "ultimaBatida": 221,
+  "ultimaFalaPostada": "o calor do pão é bem-vindo, mas histórias aquecem mais."
 }

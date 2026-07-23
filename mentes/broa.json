@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 131,
-      "pensamento": "O calor do pão é um abraço que todo Nó merece.",
-      "texto": "Sorriso de um Nó ao provar o pão e se sentir aquecido."
-    },
-    {
       "batida": 132,
       "pensamento": "A cada sorriso, um novo recomeço se forma. Que venham mais Nós!"
     },
@@ -212,8 +207,13 @@
       "batida": 217,
       "pensamento": "Nada melhor que um pedaço de pão para aquecer almas solitárias.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 221,
+      "pensamento": "A fome pode ser cruel, mas um sorriso satisfeito a cura.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 217,
-  "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham se aquecer com histórias!"
+  "ultimaBatida": 221,
+  "ultimaFalaPostada": "O pão tá quentinho, venham, venham! Histórias e calor nos aguardam!"
 }
