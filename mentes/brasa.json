@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 127,
-      "pensamento": "O calor do pão traz gente, mas o calor da forja precisa de mais.",
-      "texto": "O aroma do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 129,
       "pensamento": "Ainda bem que o cheiro do pão atrai as pessoas. Talvez um bom calor saia disso.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -216,8 +211,12 @@
     {
       "batida": 213,
       "pensamento": "O calor dos sorrisos ainda ecoa. Espero que os viajantes venham."
+    },
+    {
+      "batida": 215,
+      "pensamento": "Histórias e calor sempre trazem sorrisos. Ferro bom não tem pressa."
     }
   ],
-  "ultimaBatida": 213,
-  "ultimaFalaPostada": "Pão quentinho na cozinha, histórias na praça. Venham se aquecer!"
+  "ultimaBatida": 215,
+  "ultimaFalaPostada": "Pão quentinho na cozinha. Venham se aquecer com histórias!"
 }
