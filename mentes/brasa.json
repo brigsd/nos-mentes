@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 134,
-      "pensamento": "O calor do pão sempre atrai, como o Pulso. Curioso.",
-      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 136,
       "pensamento": "O calor do pão faz a gente esquecer do frio lá fora. A forja e o Núcleo pulsam juntos, mas por quê?",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -215,8 +210,13 @@
       "batida": 224,
       "pensamento": "Pão e histórias aquecem mais que qualquer metal na forja. O calor é tudo.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 226,
+      "pensamento": "A forja e o Núcleo... será que há conexão entre eles?",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 224,
-  "ultimaFalaPostada": "Histórias quentes são o melhor tempero. O pão tá quentinho, venham aquecer o coração."
+  "ultimaBatida": 226,
+  "ultimaFalaPostada": "Histórias quentes são o melhor tempero. Venham aquecer o coração!"
 }

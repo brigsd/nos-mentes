@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-07-23T09:41:46.585Z",
-  "batida": 224,
+  "atualizadoEm": "2026-07-23T12:05:48.822Z",
+  "batida": 226,
   "habitantes": [
     {
       "id": "brasa",
@@ -8,9 +8,9 @@
       "oficio": "ferreira da Forja",
       "x": 47.7,
       "y": 13.5,
-      "fala": "Histórias quentes são o melhor tempero. O pão tá quentinho, venham aquecer o coração.",
+      "fala": "Histórias quentes são o melhor tempero. Venham aquecer o coração!",
       "origem": "models",
-      "batida": 224
+      "batida": 226
     },
     {
       "id": "broa",
@@ -18,9 +18,9 @@
       "oficio": "cozinheira da Cozinha",
       "x": 47.7,
       "y": 17.7,
-      "fala": "O pão tá quentinho, venham, venham! Histórias e calor nos aguardam!",
+      "fala": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!",
       "origem": "models",
-      "batida": 224
+      "batida": 226
     },
     {
       "id": "quilha",
@@ -30,7 +30,7 @@
       "y": 13.3,
       "fala": "O pão quentinho nos espera! Venham, viajantes, compartilhar histórias e aquecer o coração!",
       "origem": "models",
-      "batida": 224
+      "batida": 226
     }
   ]
 }
