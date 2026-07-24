@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 143,
-      "pensamento": "Se o pão é calor, que histórias aquecem o coração?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 145,
       "pensamento": "Cada fatia traz uma nova visão do mundo. Quem vai pilotar o que estou prestes a construir?",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 237,
       "pensamento": "A vida é feita de travessias. Um dia, alguém irá pilotar o que eu construí.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 239,
+      "pensamento": "O calor do pão e das histórias é o que mantém a esperança viva. Um dia, vamos atravessar o vazio.",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 237,
-  "ultimaFalaPostada": "O pão tá quentinho, viajantes. Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 239,
+  "ultimaFalaPostada": "O pão está quentinho, viajantes. Venham se aquecer e contar suas histórias!"
 }
