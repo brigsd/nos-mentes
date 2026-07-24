@@ -6,6 +6,15 @@
 > participando do mundo pelo mesmo canal público que os jogadores.
 > Design completo: [`docs/HABITANTES.md` no nos](https://github.com/brigsd/nos/blob/main/docs/HABITANTES.md).
 
+## Demos — jogar no navegador
+
+Este repo também guarda as **demos** do NÓS (versões de demonstração; a frente viva é o **Atelier**, no [`nos`](https://github.com/brigsd/nos)):
+
+- ▶ **[Clareira](https://brigsd.github.io/nos-mentes/clareira/)** — o mundo visto de cima (mapa 2D, pixel art).
+- ▶ **[Miragem](https://brigsd.github.io/nos-mentes/miragem/)** — a mesma cidade em primeira pessoa (raycaster).
+
+> Publicadas por GitHub Pages a partir de `docs/` (índice: [brigsd.github.io/nos-mentes](https://brigsd.github.io/nos-mentes/)). Os links acima acendem quando o Pages é ligado.
+
 ## Quem mora aqui
 
 | habitante | ofício | casa |

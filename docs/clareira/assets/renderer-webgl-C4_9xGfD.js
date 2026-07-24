@@ -1,0 +1,1 @@
+function e(e){return console.warn(`Janela WebGL ainda não portada (D-26) — usando a janela Canvas2D.`),null}export{e as createWebGLRenderer};
