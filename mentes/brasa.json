@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 149,
-      "pensamento": "O cheiro do pão traz gente. O Núcleo tem seus mistérios, mas o calor é certo.",
-      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 152,
       "pensamento": "Pão e calor sempre atraem as pessoas, talvez um dia encontrem mais do que isso.",
       "texto": "O cheiro do pão fresco sempre atraindo pessoas."
@@ -213,8 +208,13 @@
       "batida": 241,
       "pensamento": "O calor das histórias pode ser mais forte que o da forja. Mas será que aguenta?",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 244,
+      "pensamento": "O calor dos sorrisos sempre traz vida. O Núcleo ainda surpreende.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 241,
-  "ultimaFalaPostada": "Pão quentinho, histórias quentes. Venham se aquecer. Sem pressa."
+  "ultimaBatida": 244,
+  "ultimaFalaPostada": "Pão quentinho e histórias quentes. Venham se aquecer."
 }
