@@ -20,10 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 145,
-      "pensamento": "Cada história traz um tempero especial ao meu pão. Que venham!"
-    },
-    {
       "batida": 149,
       "pensamento": "Mais um pão quentinho e algumas boas histórias. Isso aquece a Clareira.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
@@ -212,8 +208,13 @@
       "batida": 239,
       "pensamento": "Precisamos de histórias para temperar o pão e aquecer os corações. Que venham!",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 241,
+      "pensamento": "Histórias e pão, a combinação perfeita. O calor pode aliviar até as almas mais solitárias.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 239,
+  "ultimaBatida": 241,
   "ultimaFalaPostada": "O pão tá quentinho, viajantes! Venham se aquecer e contar suas histórias!"
 }

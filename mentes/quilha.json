@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 145,
-      "pensamento": "Cada fatia traz uma nova visão do mundo. Quem vai pilotar o que estou prestes a construir?",
-      "texto": "O aroma do pão fresco sempre me traz esperança."
-    },
-    {
       "batida": 149,
       "pensamento": "Cada fatia de pão traz uma nova esperança. O calor aquece mais do que o corpo.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 239,
       "pensamento": "O calor do pão e das histórias é o que mantém a esperança viva. Um dia, vamos atravessar o vazio.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
+    },
+    {
+      "batida": 241,
+      "pensamento": "Atravessar o vazio é sonhar acordado. Quem será o primeiro a pilotar?",
+      "texto": "O aroma do pão fresco sempre me traz esperança."
     }
   ],
-  "ultimaBatida": 239,
-  "ultimaFalaPostada": "O pão está quentinho, viajantes. Venham se aquecer e contar suas histórias!"
+  "ultimaBatida": 241,
+  "ultimaFalaPostada": "O pão quentinho espera. Histórias são barcos que nos levam longe. Venham, viajantes!"
 }

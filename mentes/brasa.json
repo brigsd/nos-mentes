@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 145,
-      "pensamento": "O calor do pão é como o Pulso. Tem algo a mais nisso tudo. Ferro bom não tem pressa.",
-      "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 149,
       "pensamento": "O cheiro do pão traz gente. O Núcleo tem seus mistérios, mas o calor é certo.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -213,8 +208,13 @@
       "batida": 239,
       "pensamento": "O calor dos sorrisos nunca foi tão necessário. Preciso manter a forja acesa.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 241,
+      "pensamento": "O calor das histórias pode ser mais forte que o da forja. Mas será que aguenta?",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 239,
-  "ultimaFalaPostada": "O pão tá quentinho. Histórias boas também aquecem. Venham, viajantes!"
+  "ultimaBatida": 241,
+  "ultimaFalaPostada": "Pão quentinho, histórias quentes. Venham se aquecer. Sem pressa."
 }
