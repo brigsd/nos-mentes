@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 155,
-      "pensamento": "se o pão faz sorrir, o calor pode unir. mas e o Núcleo?",
-      "texto": "o jeito como o pão traz sorrisos, mesmo nos dias frios."
-    },
-    {
       "batida": 157,
       "pensamento": "O calor do pão sempre atrai. Queria que sempre fosse assim.",
       "texto": "O jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -213,8 +208,13 @@
       "batida": 247,
       "pensamento": "O calor dos sorrisos é sempre bem-vindo, mas o Núcleo e a forja pulsam juntos. Estranho isso.",
       "texto": "O aroma do pão fresco traz calor em dias frios."
+    },
+    {
+      "batida": 250,
+      "pensamento": "Histórias quentes são como forja: precisam de tempo e fogo.",
+      "texto": "O calor dos sorrisos aquecia até os dias mais frios."
     }
   ],
-  "ultimaBatida": 247,
-  "ultimaFalaPostada": "Pão quentinho e histórias quentes. Venham se aquecer."
+  "ultimaBatida": 250,
+  "ultimaFalaPostada": "Venham, viajantes! O calor do pão está no ar."
 }

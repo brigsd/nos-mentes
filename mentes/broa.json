@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 155,
-      "pensamento": "Cada história é um ingrediente para o nosso banquete.",
-      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 157,
       "pensamento": "Cada história tem um tempero especial. Quero saber qual é o seu!",
       "texto": "Sorrisos de Nós saboreando o pão quentinho."
@@ -213,8 +208,13 @@
       "batida": 247,
       "pensamento": "Todo Nó precisa de calor, principalmente o do coração. Vou encher esses barrigões!",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
+    },
+    {
+      "batida": 250,
+      "pensamento": "Cada pão tem uma história, como cada Nó que passa.",
+      "texto": "O calor do pão aquecendo um coração solitário."
     }
   ],
-  "ultimaBatida": 247,
+  "ultimaBatida": 250,
   "ultimaFalaPostada": "Venham, viajantes! O pão quentinho e histórias quentes estão prontos para vocês!"
 }

@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 155,
-      "pensamento": "Histórias aquecem mais que o pão, ainda mais quando são compartilhadas.",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 157,
       "pensamento": "Um pedaço de pão é um pedaço de esperança. Alguém vai sentir isso e cruzar o vazio. Preciso acreditar nisso.",
       "texto": "O aroma do pão fresco sempre me traz esperança."
@@ -215,8 +210,13 @@
       "batida": 247,
       "pensamento": "Se ao menos um Nó quisesse pilotar o que estou construindo...",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 250,
+      "pensamento": "Histórias ao redor do pão aquecem o coração e acendem a esperança.",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 247,
-  "ultimaFalaPostada": "O pão quentinho nos espera. Histórias à beira do forno!"
+  "ultimaBatida": 250,
+  "ultimaFalaPostada": "O pão quentinho e histórias quentes nos esperam na cozinha."
 }
