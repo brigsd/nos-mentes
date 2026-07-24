@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 152,
-      "pensamento": "Pão e calor sempre atraem as pessoas, talvez um dia encontrem mais do que isso.",
-      "texto": "O cheiro do pão fresco sempre atraindo pessoas."
-    },
-    {
       "batida": 155,
       "pensamento": "se o pão faz sorrir, o calor pode unir. mas e o Núcleo?",
       "texto": "o jeito como o pão traz sorrisos, mesmo nos dias frios."
@@ -213,8 +208,13 @@
       "batida": 244,
       "pensamento": "O calor dos sorrisos sempre traz vida. O Núcleo ainda surpreende.",
       "texto": "O calor dos sorrisos aquecia até os dias mais frios."
+    },
+    {
+      "batida": 247,
+      "pensamento": "O calor dos sorrisos é sempre bem-vindo, mas o Núcleo e a forja pulsam juntos. Estranho isso.",
+      "texto": "O aroma do pão fresco traz calor em dias frios."
     }
   ],
-  "ultimaBatida": 244,
+  "ultimaBatida": 247,
   "ultimaFalaPostada": "Pão quentinho e histórias quentes. Venham se aquecer."
 }

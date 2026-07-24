@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 152,
-      "pensamento": "Cada pedaço de pão traz uma história. Aprender a pilotar o vazio, será um ato de coragem.",
-      "texto": "O calor das histórias compartilhadas ao redor do pão."
-    },
-    {
       "batida": 155,
       "pensamento": "Histórias aquecem mais que o pão, ainda mais quando são compartilhadas.",
       "texto": "O calor das histórias compartilhadas ao redor do pão."
@@ -215,8 +210,13 @@
       "batida": 244,
       "pensamento": "Histórias são as verdadeiras travessias que fazemos. Queria ver um de vocês decolar.",
       "texto": "O calor das histórias ao redor do pão."
+    },
+    {
+      "batida": 247,
+      "pensamento": "Se ao menos um Nó quisesse pilotar o que estou construindo...",
+      "texto": "O calor das histórias ao redor do pão."
     }
   ],
-  "ultimaBatida": 244,
-  "ultimaFalaPostada": "O aroma do pão fresco está no ar. Venham, viajantes, aquecer-se com histórias!"
+  "ultimaBatida": 247,
+  "ultimaFalaPostada": "O pão quentinho nos espera. Histórias à beira do forno!"
 }

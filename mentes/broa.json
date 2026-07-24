@@ -20,11 +20,6 @@
   ],
   "memorias": [
     {
-      "batida": 152,
-      "pensamento": "Histórias e pão, uma combinação perfeita. Alimenta corpo e alma.",
-      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
-    },
-    {
       "batida": 155,
       "pensamento": "Cada história é um ingrediente para o nosso banquete.",
       "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
@@ -213,8 +208,13 @@
       "batida": 244,
       "pensamento": "Ah, como é bom ver os Nós se reunindo. O calor do pão une corações.",
       "texto": "O calor do pão aquecendo um coração solitário."
+    },
+    {
+      "batida": 247,
+      "pensamento": "Todo Nó precisa de calor, principalmente o do coração. Vou encher esses barrigões!",
+      "texto": "O sorriso satisfeito de um Nó ao experimentar o pão."
     }
   ],
-  "ultimaBatida": 244,
-  "ultimaFalaPostada": "Tem pão quentinho saindo do forno! Venham se aquecer com histórias!"
+  "ultimaBatida": 247,
+  "ultimaFalaPostada": "Venham, viajantes! O pão quentinho e histórias quentes estão prontos para vocês!"
 }
